@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<threads>
+	<thread>
+		<time>51 23 * * *</time>
+		<bean_config>./conf/beanRongBay.xml</bean_config>
+		<jdbm_config>./conf/jdbmRongBay.xml</jdbm_config>
+		<url_config>./conf/urlsRongBay.xml</url_config>
+		<importer_config>1</importer_config>
+		<step>0</step>
+		<stepTo>4</stepTo>
+		<fetch>1</fetch>
+		<is_slow>0</is_slow>
+	</thread>
+		<thread>
+		<time>17 02 * * *</time>
+		<bean_config>./conf/beanMuaBan.xml</bean_config>
+		<jdbm_config>./conf/jdbmMuaBan.xml</jdbm_config>
+		<url_config>./conf/urlsMuaBan.xml</url_config>
+		<importer_config>1</importer_config>
+		<step>0</step>
+		<stepTo>4</stepTo>
+		<fetch>2</fetch>
+		<is_slow>0</is_slow>
+	</thread>
+	<!--	
+	<thread>
+		<time>57 08 * * *</time>
+		<bean_config>./conf/beanVatGia.xml</bean_config>
+		<jdbm_config>./conf/jdbmVatGia.xml</jdbm_config>
+		<url_config>./conf/urlsVatGia.xml</url_config>
+		<importer_config>1</importer_config>
+		<step>3</step>
+		<stepTo>0</stepTo>
+		<fetch>1</fetch>
+		<is_slow>1</is_slow>
+	</thread>
+	<thread>
+		<time>16 02 * * *</time>
+		<bean_config>./conf/bean5Giay.xml</bean_config>
+		<jdbm_config>./conf/jdbm5Giay.xml</jdbm_config>
+		<url_config>./conf/urls5Giay.xml</url_config>
+		<importer_config>1</importer_config>
+		<step>0</step>
+		<stepTo>4</stepTo>
+		<fetch>1</fetch>
+		<is_slow>0</is_slow>
+	</thread>
+	<thread>
+		<time>46 02 * * *</time>
+		<bean_config>./conf/bean.xml</bean_config>
+		<jdbm_config>./conf/jdbm.xml</jdbm_config>
+		<url_config>./conf/urls.xml</url_config>
+		<importer_config>1</importer_config>
+		<step>0</step>
+		<stepTo>4</stepTo>
+		<fetch>1</fetch>
+		<is_slow>0</is_slow>
+	</thread>
+	<thread>
+		<time>07 12 * * *</time>
+		<bean_config>./conf/beanMuaBan.xml</bean_config>
+		<jdbm_config>./conf/jdbmMuaBan.xml</jdbm_config>
+		<url_config>./conf/urlsMuaBan.xml</url_config>
+		<importer_config>1</importer_config>
+		<step>0</step>
+		<stepTo>4</stepTo>
+		<fetch>2</fetch>
+		<is_slow>0</is_slow>
+	</thread>
+
+	<thread>
+		<time>05 00 * * *</time>
+		<bean_config>./conf/beanVatGia.xml</bean_config>
+		<jdbm_config>./conf/jdbmVatGia.xml</jdbm_config>
+		<url_config>./conf/urlsVatGia.xml</url_config>
+		<importer_config>1</importer_config>
+		<step>0</step>
+		<stepTo>4</stepTo>
+		<fetch>1</fetch>
+		<is_slow>1</is_slow>
+	</thread>
+	<thread>
+		<time>38 14 * * *</time>
+		<bean_config>./conf/beanMuaBan.xml</bean_config>
+		<jdbm_config>./conf/jdbmMuaBan.xml</jdbm_config>
+		<url_config>./conf/urlsMuaBan.xml</url_config>
+		<importer_config>1</importer_config>
+		<step>0</step>
+		<stepTo>4</stepTo>
+		<fetch>2</fetch>
+		<is_slow>0</is_slow>
+	</thread>
+	<thread>	
+		<time>21 14 * * *</time>
+		<bean_config>./conf/bean24h.xml</bean_config>
+		<jdbm_config>./conf/jdbm24h.xml</jdbm_config>
+		<url_config>./conf/urls24h.xml</url_config>
+		<importer_config>1</importer_config>
+		<step>4</step>
+		<stepTo>0</stepTo>
+		<fetch>1</fetch>
+		<is_slow>0</is_slow>
+	</thread>
+	
+	<thread>
+		<time>22 14 * * *</time>
+		<bean_config>./conf/beanRongBay.xml</bean_config>
+		<jdbm_config>./conf/jdbmRongBay.xml</jdbm_config>
+		<url_config>./conf/urlsRongBay.xml</url_config>
+		<importer_config>1</importer_config>
+		<step>0</step>
+		<stepTo>4</stepTo>
+		<fetch>1</fetch>
+		<is_slow>0</is_slow>
+	</thread>	-->	
+</threads>

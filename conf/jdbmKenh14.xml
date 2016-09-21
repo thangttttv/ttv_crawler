@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jdbm>
+	<url>/data/crawler/data/kenh14/url</url>
+	<url-store>/data/crawler/data/kenh14/store</url-store>
+	<datum>/data/crawler/data/kenh14/datum</datum>
+	<datum-store>/data/crawler/data/kenh14/store</datum-store>
+	<extract>/data/crawler/data/kenh14/extract</extract>
+	<extract-store>/data/crawler/data/kenh14/store</extract-store>
+	<url-image>/data/crawler/data/kenh14/image</url-image>
+	<keyword-filter>/data/crawler/data/kenh14</keyword-filter>
+	<user-qa>/data/crawler/data/kenh14</user-qa>
+	<file-log>/data/crawler/data/kenh14/kenh14</file-log>
+</jdbm>

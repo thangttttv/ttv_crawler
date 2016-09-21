@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <info>
+    <urls>
+      <url catid="14" fetchNumber="1" collection="4" pagePara="" regex="/c1/\d+/.*chn$" >
+            http://kenh14.vn/ngoi-sao/trang-2.chn
+      </url>
+      <url catid="14" fetchNumber="1" collection="4" pagePara="" regex="/c1/\d+/.*chn$" >
+            http://kenh14.vn/ngoi-sao/trang-1.chn
+      </url>
+      <url catid="13" fetchNumber="1" collection="4" pagePara="" regex="/c102/\d+/.*chn$" >
+            http://kenh14.vn/ngoi-sao/v-star/trang-2.chn
+      </url>
+      <url catid="13" fetchNumber="1" collection="4" pagePara="" regex="/c102/\d+/.*chn$" >
+            http://kenh14.vn/ngoi-sao/v-star/trang-1.chn
+      </url>
+      <url catid="16" fetchNumber="1" collection="4" pagePara="" regex="/c12/\d+/.*chn$" >
+            http://kenh14.vn/am-nhac/nhac-viet/trang-2.chn
+      </url>
+      <url catid="16" fetchNumber="1" collection="4" pagePara="" regex="/c12/\d+/.*chn$" >
+            http://kenh14.vn/am-nhac/nhac-viet/trang-1.chn
+      </url>
+      <url catid="17" fetchNumber="1" collection="4" pagePara="" regex="/c13/\d+/.*chn$" >
+            http://kenh14.vn/am-nhac/chau-a/trang-2.chn
+      </url>
+      <url catid="17" fetchNumber="1" collection="4" pagePara="" regex="/c13/\d+/.*chn$" >
+            http://kenh14.vn/am-nhac/chau-a/trang-1.chn
+      </url>
+      <url catid="18" fetchNumber="1" collection="4" pagePara="" regex="/c14/\d+/.*chn$" >
+            http://kenh14.vn/am-nhac/au-my/trang-2.chn
+      </url>
+      <url catid="18" fetchNumber="1" collection="4" pagePara="" regex="/c14/\d+/.*chn$" >
+            http://kenh14.vn/am-nhac/au-my/trang-1.chn
+      </url>
+      <url catid="19" fetchNumber="1" collection="4" pagePara="" regex="/c63/\d+/.*chn$" >
+            http://kenh14.vn/phim-anh/phim-viet-nam/trang-2.chn
+      </url>
+      <url catid="19" fetchNumber="1" collection="4" pagePara="" regex="/c63/\d+/.*chn$" >
+            http://kenh14.vn/phim-anh/phim-viet-nam/trang-1.chn
+      </url>
+      <url catid="20" fetchNumber="1" collection="4" pagePara="" regex="/c64/\d+/.*chn$" >
+            http://kenh14.vn/phim-anh/phim-chau-a/trang-2.chn
+      </url>
+      <url catid="20" fetchNumber="1" collection="4" pagePara="" regex="/c64/\d+/.*chn$" >
+            http://kenh14.vn/phim-anh/phim-chau-a/trang-1.chn
+      </url>
+      <url catid="21" fetchNumber="1" collection="4" pagePara="" regex="/c65/\d+/.*chn$" >
+            http://kenh14.vn/phim-anh/phim-au-my/trang-2.chn
+      </url>
+      <url catid="21" fetchNumber="1" collection="4" pagePara="" regex="/c65/\d+/.*chn$" >
+            http://kenh14.vn/phim-anh/phim-au-my/trang-1.chn
+      </url>
+      <url catid="23" fetchNumber="1" collection="4" pagePara="" regex="/c23/\d+/.*chn$" >
+            http://kenh14.vn/thoi-trang/xu-huong/trang-2.chn
+      </url>
+      <url catid="23" fetchNumber="1" collection="4" pagePara="" regex="/c23/\d+/.*chn$" >
+            http://kenh14.vn/thoi-trang/xu-huong/trang-1.chn
+      </url>
+      <url catid="24" fetchNumber="1" collection="4" pagePara="" regex="/c50/\d+/.*chn$" >
+            http://kenh14.vn/thoi-trang/mix-do/trang-2.chn
+      </url>
+      <url catid="24" fetchNumber="1" collection="4" pagePara="" regex="/c50/\d+/.*chn$" >
+            http://kenh14.vn/thoi-trang/mix-do/trang-1.chn
+      </url>
+      <url catid="25" fetchNumber="1" collection="4" pagePara="" regex="/c131/\d+/.*chn$" >
+            http://kenh14.vn/thoi-trang/star-style/trang-2.chn
+      </url>
+      <url catid="25" fetchNumber="1" collection="4" pagePara="" regex="/c131/\d+/.*chn$" >
+            http://kenh14.vn/thoi-trang/star-style/trang-1.chn
+      </url>
+      <url catid="23" fetchNumber="1" collection="4" pagePara="" regex="/c26/\d+/.*chn$" >
+            http://kenh14.vn/thoi-trang/teenlook/trang-2.chn
+      </url>
+      <url catid="23" fetchNumber="1" collection="4" pagePara="" regex="/c26/\d+/.*chn$" >
+            http://kenh14.vn/thoi-trang/teenlook/trang-1.chn
+      </url>
+      <url catid="24" fetchNumber="1" collection="4" pagePara="" regex="/c22/\d+/.*chn$" >
+            http://kenh14.vn/thoi-trang/tieu-diem/trang-2.chn
+      </url>
+      <url catid="24" fetchNumber="1" collection="4" pagePara="" regex="/c22/\d+/.*chn$" >
+            http://kenh14.vn/thoi-trang/tieu-diem/trang-1.chn
+      </url>
+      <url catid="28" fetchNumber="1" collection="4" pagePara="" regex="/c87/\d+/.*chn$" >
+            http://kenh14.vn/doi-song/teen-story/trang-2.chn
+      </url>
+      <url catid="28" fetchNumber="1" collection="4" pagePara="" regex="/c87/\d+/.*chn$" >
+            http://kenh14.vn/doi-song/teen-story/trang-1.chn
+      </url>
+      <url catid="26" fetchNumber="1" collection="4" pagePara="" regex="/c95/\d+/.*chn$" >
+            http://kenh14.vn/doi-song/quan-xa/trang-2.chn
+      </url>
+      <url catid="26" fetchNumber="1" collection="4" pagePara="" regex="/c95/\d+/.*chn$" >
+            http://kenh14.vn/doi-song/quan-xa/trang-1.chn
+      </url>
+      <url catid="27" fetchNumber="1" collection="4" pagePara="" regex="/c78/\d+/.*chn$" >
+            http://kenh14.vn/doi-song/nhan-vat-doi-song/trang-2.chn
+      </url>
+      <url catid="27" fetchNumber="1" collection="4" pagePara="" regex="/c78/\d+/.*chn$" >
+            http://kenh14.vn/doi-song/nhan-vat-doi-song/trang-1.chn
+      </url>
+      <url catid="31" fetchNumber="1" collection="4" pagePara="" regex="/c92/\d+/.*chn$" >
+            http://kenh14.vn/hoc-duong/du-hoc/trang-2.chn
+      </url>
+      <url catid="31" fetchNumber="1" collection="4" pagePara="" regex="/c92/\d+/.*chn$" >
+            http://kenh14.vn/hoc-duong/du-hoc/trang-1.chn
+      </url>
+      <url catid="34" fetchNumber="1" collection="4" pagePara="" regex="/c93/\d+/.*chn$" >
+            http://kenh14.vn/hoc-duong/46-news/trang-2.chn
+      </url>
+      <url catid="34" fetchNumber="1" collection="4" pagePara="" regex="/c93/\d+/.*chn$" >
+            http://kenh14.vn/hoc-duong/46-news/trang-1.chn
+      </url>
+      <url catid="35" fetchNumber="1" collection="4" pagePara="" regex="/c80/\d+/.*chn$" >
+            http://kenh14.vn/gioi-tinh/kien-thuc-gioi-tinh/trang-2.chn
+      </url>
+      <url catid="35" fetchNumber="1" collection="4" pagePara="" regex="/c80/\d+/.*chn$" >
+            http://kenh14.vn/gioi-tinh/kien-thuc-gioi-tinh/trang-1.chn
+      </url>
+      <url catid="38" fetchNumber="1" collection="4" pagePara="" regex="/c81/\d+/.*chn$" >
+            http://kenh14.vn/gioi-tinh/cau-chuyen-gioi-tinh/trang-2.chn
+      </url>
+      <url catid="38" fetchNumber="1" collection="4" pagePara="" regex="/c81/\d+/.*chn$" >
+            http://kenh14.vn/gioi-tinh/cau-chuyen-gioi-tinh/trang-1.chn
+      </url>
+      <url catid="36" fetchNumber="1" collection="4" pagePara="" regex="/c91/\d+/.*chn$" >
+            http://kenh14.vn/gioi-tinh/dep/trang-2.chn
+      </url>
+      <url catid="36" fetchNumber="1" collection="4" pagePara="" regex="/c91/\d+/.*chn$" >
+            http://kenh14.vn/gioi-tinh/dep/trang-1.chn
+      </url>
+      <url catid="41" fetchNumber="1" collection="4" pagePara="" regex="/c122/\d+/.*chn$" >
+            http://kenh14.vn/sport/ben-le-san-dau/trang-2.chn
+      </url>
+      <url catid="41" fetchNumber="1" collection="4" pagePara="" regex="/c122/\d+/.*chn$" >
+            http://kenh14.vn/sport/ben-le-san-dau/trang-1.chn
+      </url>
+      <url catid="9" fetchNumber="1" collection="4" pagePara="" regex="/c52/\d+/.*chn$" >
+            http://kenh14.vn/cong-nghe/2tek-vui/trang-2.chn
+      </url>
+      <url catid="9" fetchNumber="1" collection="4" pagePara="" regex="/c52/\d+/.*chn$" >
+            http://kenh14.vn/cong-nghe/2tek-vui/trang-1.chn
+      </url>
+      <url catid="9" fetchNumber="1" collection="4" pagePara="" regex="/c36/\d+/.*chn$" >
+            http://kenh14.vn/cong-nghe/thu-thuat/trang-2.chn
+      </url>
+      <url catid="9" fetchNumber="1" collection="4" pagePara="" regex="/c36/\d+/.*chn$" >
+            http://kenh14.vn/cong-nghe/thu-thuat/trang-1.chn
+      </url>
+    </urls>
+  
+    <website>
+          <baseUrl>http://kenh14.vn</baseUrl>  
+        <rewriterUrl>http://kenh14.vn</rewriterUrl>        
+ </website>
+    <regexs>
+           <regex>/c\d+/\d+/.*chn$</regex>      
+    	  </regexs>
+ </info> 

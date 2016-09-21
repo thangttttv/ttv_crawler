@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <info>
+    <urls>
+    <url catid="46" fetchNumber="1" collection="5" pagePara="" regex="zing.vn/news/trac-nghiem/.*/a\d+.*html$">
+			http://www.zing.vn/news/nhip-song-tre/trac-nghiem.html
+		</url>
+		<url catid="5" fetchNumber="1" collection="5" pagePara="" regex="zing.vn/news/xa-hoi/.*/a\d+.*html$" >
+            http://www.zing.vn/news/xa-hoi.html?p=1
+      </url>
+		<!-- 
+      
+      
+      <url catid="5" fetchNumber="1" collection="5" pagePara="" regex="zing.vn/news/xa-hoi/.*/a\d+.*html$" >
+            http://www.zing.vn/news/xa-hoi.htm?p=4
+      </url>
+      <url catid="5" fetchNumber="1" collection="5" pagePara="" regex="zing.vn/news/xa-hoi/.*/a\d+.*html$" >
+            http://www.zing.vn/news/xa-hoi.htm?p=3
+      </url>
+      <url catid="5" fetchNumber="1" collection="5" pagePara="" regex="zing.vn/news/xa-hoi/.*/a\d+.*html$" >
+            http://www.zing.vn/news/xa-hoi.htm?p=2
+      </url>
+      <url catid="5" fetchNumber="1" collection="5" pagePara="" regex="zing.vn/news/xa-hoi/.*/a\d+.*html$" >
+            http://www.zing.vn/news/xa-hoi.htm?p=1
+      </url> -->
+    </urls>
+  
+    <website>
+          <baseUrl>http://zing.vn</baseUrl>  
+        <rewriterUrl>http://zing.vn</rewriterUrl>        
+ </website>
+    <regexs>
+           <regex>zing.vn/news/.*/a\d+.*html$</regex>      
+    	  </regexs>
+ </info> 

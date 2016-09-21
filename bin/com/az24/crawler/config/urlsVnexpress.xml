@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+	<urls>
+		<url catid="16" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/the-gioi/nguoi-viet-5-chau/\d+/\d+/.*/">
+			http://vnexpress.net/gl/the-gioi/nguoi-viet-5-chau/
+		</url>
+		<url catid="14" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/the-gioi/phan-tich/\d+/\d+/.*/">
+			http://vnexpress.net/gl/the-gioi/phan-tich/
+		</url>
+		<url catid="15" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/the-gioi/tu-lieu/\d+/\d+/.*/">
+			http://vnexpress.net/gl/the-gioi/tu-lieu/
+		</url>
+		<url catid="13" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/kinh-doanh/quoc-te/\d+/\d+/.*/">
+			http://vnexpress.net/gl/kinh-doanh/quoc-te/
+		</url>
+		<url catid="43" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/xa-hoi/giao-duc/\d+/\d+/.*/">
+			http://vnexpress.net/gl/xa-hoi/giao-duc/
+		</url>
+		<url catid="42" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/xa-hoi/co-hoi-du-hoc/\d+/\d+/.*/">
+			http://vnexpress.net/gl/xa-hoi/co-hoi-du-hoc/
+		</url>
+		<url catid="48" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/kinh-doanh/bat-dong-san/\d+/\d+/.*/">
+			http://vnexpress.net/gl/kinh-doanh/bat-dong-san/
+		</url>
+
+		<url catid="25" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/kinh-doanh/chung-khoan/\d+/\d+/.*/">
+			http://vnexpress.net/gl/kinh-doanh/chung-khoan/
+		</url>
+		<url catid="27" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/kinh-doanh/kinh-nghiem/\d+/\d+/.*/">
+			http://vnexpress.net/gl/kinh-doanh/kinh-nghiem/
+		</url>
+		<url catid="35" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/van-hoa/am-nhac/\d+/\d+/.*/">
+			http://vnexpress.net/gl/van-hoa/am-nhac/
+		</url>
+		<url catid="36" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/van-hoa/san-khau-dien-anh/\d+/\d+/.*/">
+			http://vnexpress.net/gl/van-hoa/san-khau-dien-anh/
+		</url>
+		<url catid="37" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/van-hoa/guong-mat-nghe-sy/\d+/\d+/.*/">
+			http://vnexpress.net/gl/van-hoa/guong-mat-nghe-sy/
+		</url>
+		<url catid="38" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/van-hoa/hoa-hau/\d+/\d+/.*/">
+			http://vnexpress.net/gl/van-hoa/hoa-hau/
+		</url>
+		<url catid="39" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/cuoi/tieu-pham/\d+/\d+/.*/">
+			http://vnexpress.net/gl/cuoi/tieu-pham/
+		</url>
+		<url catid="39" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/cuoi/video/\d+/\d+/.*/">
+			http://vnexpress.net/gl/cuoi/video/
+		</url>
+		<url catid="40" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/phap-luat/hinh-su/\d+/\d+/.*/">
+			http://vnexpress.net/gl/phap-luat/hinh-su/
+		</url>
+		<url catid="40" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/phap-luat/ky-su/\d+/\d+/.*/">
+			http://vnexpress.net/gl/phap-luat/ky-su/
+		</url>
+		<url catid="31" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/the-thao/bong-da/\d+/\d+/.*/">
+			http://vnexpress.net/gl/the-thao/bong-da/
+		</url>
+		<url catid="32" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/the-thao/tennis/\d+/\d+/.*/">
+			http://vnexpress.net/gl/the-thao/tennis/
+		</url>
+		<url catid="33" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/the-thao/chan-dung/\d+/\d+/.*/">
+			http://vnexpress.net/gl/the-thao/chan-dung/
+		</url>
+		<url catid="33" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/the-thao/anh-video/\d+/\d+/.*/">
+			http://vnexpress.net/gl/the-thao/anh-video/
+		</url>
+		<url catid="29" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/khoa-hoc/moi-truong/\d+/\d+/.*/">
+			http://vnexpress.net/gl/khoa-hoc/moi-truong/
+		</url>
+		<url catid="29" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/khoa-hoc/thien-nhien/\d+/\d+/.*/">
+			http://vnexpress.net/gl/khoa-hoc/thien-nhien/
+		</url>
+		<url catid="29" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/khoa-hoc/ky-thuat-moi/\d+/\d+/.*/">
+			http://vnexpress.net/gl/khoa-hoc/ky-thuat-moi/
+		</url>
+		<url catid="62" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/vi-tinh/kinh-nghiem/\d+/\d+/.*/">
+			http://vnexpress.net/gl/vi-tinh/kinh-nghiem/
+		</url>
+		<url catid="28" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/vi-tinh/hacker-virus/\d+/\d+/.*/">
+			http://vnexpress.net/gl/vi-tinh/hacker-virus/
+		</url>
+		<url catid="28" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/vi-tinh/giai-tri/\d+/\d+/.*/">
+			http://vnexpress.net/gl/vi-tinh/giai-tri/
+		</url>
+		<url catid="30" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/vi-tinh/san-pham-moi/\d+/\d+/.*/">
+			http://vnexpress.net/gl/vi-tinh/san-pham-moi/
+		</url>
+		<url catid="46" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/oto-xe-may/\d+/\d+/.*/">
+			http://vnexpress.net/gl/oto-xe-may/
+		</url>
+		<url catid="58" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/van-hoa/thoi-trang/\d+/\d+/.*/">
+			http://vnexpress.net/gl/van-hoa/thoi-trang/
+		</url>
+		<url catid="52" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/doi-song/am-thuc/\d+/\d+/.*/">
+			http://vnexpress.net/gl/doi-song/am-thuc/
+		</url>
+		<url catid="51" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/van-hoa/my-thuat/\d+/\d+/.*/">
+			http://vnexpress.net/gl/van-hoa/my-thuat/
+		</url>
+		<url catid="52" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/xa-hoi/du-lich/\d+/\d+/.*/">
+			http://vnexpress.net/gl/xa-hoi/du-lich/
+		</url>
+
+		<url catid="44" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/suc-khoe/lam-dep/\d+/\d+/.*/">
+			http://vnexpress.net/gl/suc-khoe/lam-dep/
+		</url>
+		<url catid="45" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/doi-song/gia-dinh/\d+/\d+/.*/">
+			http://vnexpress.net/gl/doi-song/gia-dinh/
+		</url>
+		<url catid="66" fetchNumber="1" collection="8" pagePara=""
+			regex="/gl/suc-khoe/\d+/\d+/.*/">
+			http://vnexpress.net/gl/suc-khoe/
+		</url>
+	</urls>
+	<website>
+		<baseUrl>http://vnexpress.net</baseUrl>
+		<rewriterUrl>http://vnexpress.net</rewriterUrl>
+	</website>
+	<regexs>
+		<regex>/c\d+/\d+/.*chn$</regex>
+	</regexs>
+</info>

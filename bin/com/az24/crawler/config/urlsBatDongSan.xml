@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+  <info>
+    <urls>
+      <url catid="958" regex="http://bancanhochungcu.*.batdongsan.com.vn/.*html$">
+            http://bancanhochungcu.batdongsan.com.vn/1
+      </url>
+      <!-- 
+      <url catid="958" regex="http://bancanhochungcu.batdongsan.com.vn/.*html$">
+            http://bancanhochungcu.batdongsan.com.vn/2
+      </url>
+      <url catid="958" regex="http://bannharieng.batdongsan.com.vn/.*html$">
+            http://bannharieng.batdongsan.com.vn/1
+      </url>
+      <url catid="958" regex="http://bannharieng.batdongsan.com.vn/.*html$">
+            http://bannharieng.batdongsan.com.vn/2
+      </url>
+      <url catid="958" regex="http://banbiethulienke.batdongsan.com.vn/.*html$">
+            http://banbiethulienke.batdongsan.com.vn/1
+      </url>
+      <url catid="958" regex="http://banbiethulienke.batdongsan.com.vn/.*html$">
+            http://banbiethulienke.batdongsan.com.vn/2
+      </url>
+      <url catid="958" regex="http://bannhamatpho.batdongsan.com.vn/.*html$">
+            http://bannhamatpho.batdongsan.com.vn/1
+      </url>
+      <url catid="958" regex="http://bannhamatpho.batdongsan.com.vn/.*html$">
+            http://bannhamatpho.batdongsan.com.vn/2
+      </url>
+      <url catid="957" regex="http://bandat.batdongsan.com.vn/.*html$">
+            http://bandat.batdongsan.com.vn/1
+      </url>
+      <url catid="957" regex="http://bandat.batdongsan.com.vn/.*html$">
+            http://bandat.batdongsan.com.vn/2
+      </url>
+      <url catid="967" regex="http://chothuenhatrophongtro.batdongsan.com.vn/.*html$">
+            http://chothuenhatrophongtro.batdongsan.com.vn/1
+      </url>
+      <url catid="967" regex="http://chothuenhatrophongtro.batdongsan.com.vn/.*html$">
+            http://chothuenhatrophongtro.batdongsan.com.vn/2
+      </url>
+      <url catid="2252" regex="http://chothuecuahangkiot.batdongsan.com.vn/.*html$">
+            http://chothuecuahangkiot.batdongsan.com.vn/1
+      </url>
+      <url catid="2252" regex="http://chothuecuahangkiot.batdongsan.com.vn/.*html$">
+            http://chothuecuahangkiot.batdongsan.com.vn/2
+      </url>
+      <url catid="2252" regex="http://chothuekhonhaxuongdat.batdongsan.com.vn/.*html$">
+            http://chothuekhonhaxuongdat.batdongsan.com.vn/1
+      </url>
+      <url catid="2252" regex="http://chothuekhonhaxuongdat.batdongsan.com.vn/.*html$">
+            http://chothuekhonhaxuongdat.batdongsan.com.vn/2
+      </url>
+      <url catid="968" regex="http://bandatnenduan.batdongsan.com.vn/.*html$">
+            http://bandatnenduan.batdongsan.com.vn/1
+      </url>
+      <url catid="968" regex="http://bandatnenduan.batdongsan.com.vn/.*html$">
+            http://bandatnenduan.batdongsan.com.vn/2
+      </url>
+      <url catid="1078" regex="http://chothuenharieng.batdongsan.com.vn/.*html$">
+            http://chothuenharieng.batdongsan.com.vn/1
+      </url>
+      <url catid="1078" regex="http://chothuenharieng.batdongsan.com.vn/.*html$">
+            http://chothuenharieng.batdongsan.com.vn/2
+      </url>
+      <url catid="1078" regex="http://chothuecanhochungcu.batdongsan.com.vn/.*html$">
+            http://chothuecanhochungcu.batdongsan.com.vn/1
+      </url>
+      <url catid="1078" regex="http://chothuecanhochungcu.batdongsan.com.vn/.*html$">
+            http://chothuecanhochungcu.batdongsan.com.vn/2
+      </url>
+      <url catid="1078" regex="http://chothuenhamatpho.batdongsan.com.vn/.*html$">
+            http://chothuenhamatpho.batdongsan.com.vn/1
+      </url>
+      <url catid="1078" regex="http://chothuenhamatpho.batdongsan.com.vn/.*html$">
+            http://chothuenhamatpho.batdongsan.com.vn/2
+      </url> -->
+    </urls>
+  
+    <website>
+          <baseUrl></baseUrl>  
+        <rewriterUrl></rewriterUrl>        
+     </website>
+     <regexs>
+           <regex></regex>      
+     </regexs>
+ </info> 

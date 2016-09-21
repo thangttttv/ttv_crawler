@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jdbm>
+	<url>/data/crawler/data/muaban/url</url>
+	<url-store>/data/crawler/data/muaban/store</url-store>
+	<datum>/data/crawler/data/muaban/datum</datum>
+	<datum-store>/data/crawler/data/muaban/store</datum-store>
+	<extract>/data/crawler/data/muaban/extract</extract>
+	<extract-store>/data/crawler/data/muaban/store</extract-store>
+	<url-image>/data/crawler/data/muaban/image</url-image>
+	<keyword-filter>/data/crawler/data/muaban</keyword-filter>
+	<user-qa>/data/crawler/data/muaban</user-qa>
+	<file-log>/data/crawler/data/muaban/muaban</file-log>
+</jdbm>

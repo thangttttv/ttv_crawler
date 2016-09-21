@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+	<urls>
+		<url catid="16" fetchNumber="1" collection="2" pagePara="">
+			http://dantri.com.vn/c23s154/amnhac/trang-1.htm
+		</url>
+	</urls>
+	<website>
+		<baseUrl>http://dantri.com.vn</baseUrl>
+		<rewriterUrl>http://dantri.com.vn</rewriterUrl>
+	</website>
+	<regexs>
+		<regex>dantri.com.vn/c\d+/s.*/.*.htm$</regex>
+	</regexs>
+</info>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bean-mapping>
+	
+	<database>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://210.211.97.11:3306/raovat2011?characterEncoding=UTF-8</url>
+		<user>quangpn</user>
+		<password>QuangPN2011@!!!*^</password>
+		<connects>2</connects>
+	</database>
+	
+	<database-log>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://210.211.97.11:3306/crawler?characterEncoding=UTF-8</url>
+		<user>quangpn</user>
+		<password>QuangPN2011@!!!*^</password>
+		<connects>2</connects>
+		<table-entity>crawler_vatgia_log</table-entity>
+		<table-image></table-image>
+	</database-log>
+	
+	<class table="classified">
+		<id column="cla_id"></id>
+		<xpath></xpath>		
+		<property column="cla_name" type="String" value="" node_type="string" filter="0">
+			<xpath>//div[@id='content']/div[1]/h1[1]/a[1]/text()</xpath>
+		</property>
+		<property column="cla_contact" type="String" value="" node_type="String" filter="0">
+			<xpath>//div[@id='contentrightinner']/div[5]/div[2]/div[1]/div[1]/table[1]/TBODY[1]/tr[5]/td[2]/text()</xpath>
+		</property>		
+		<property column="cla_city" type="String" value="" node_type="string" filter="0">
+			<xpath>//div[@id='contentrightinner']/div[1]/div[2]/div[1]/div[1]/table[1]/TBODY[1]/tr[4]/td[2]/a[1]/text()</xpath>
+		</property>
+		<property column="cla_description" type="String" value="" node_type="nodeset" filter="1" changelink="1">
+			<xpath>//div[@id='contentrightinner']</xpath>
+			<nodedelxpaths>
+				<nodedel xpath="//div[@id='contentrightinner']/div[3]/div[2]/div[1]/div[1]/table[1]/TBODY[1]/tr[1]/td[2]"></nodedel>
+				<nodedel xpath="//div[@id='contentrightinner']/div[7]"></nodedel>
+				<nodedel xpath="//div[@id='contentrightinner']/div[8]"></nodedel>
+				<nodedel xpath="//div[@id='contentrightinner']/div[9]"></nodedel>			
+			</nodedelxpaths>
+			<nodedels>
+				<nodedel name="input" attribute="button"></nodedel>
+				<nodedel name="a" attribute="Việc làm tuyển dụng khác của Nhà tuyển dụng này"></nodedel>
+				<nodedel name="a" attribute="Thông báo nếu tin đăng có nội dung xấu, quảng cáo, sai mục, sai sự thật"></nodedel>
+				<nodedel name="img" attribute="/img/chuaxacthuc.jpg"></nodedel>
+				<nodedel name="img" attribute="/img/attention.gif"></nodedel>
+				<nodedel name="img" attribute="/img/daxacthuc.jpg"></nodedel>
+				<nodedel name="img" attribute="/img/daxacthuc.jpg"></nodedel>
+				<nodedel name="img" attribute="/img/daxacthuc.jpg"></nodedel>
+				<nodedel name="img" attribute="/img/daxacthuc.jpg"></nodedel>
+				<nodedel name="div" attribute="boximageinner"></nodedel>				
+				<nodedel name="a" attribute="/nguoitimviecthu/"></nodedel>
+			</nodedels>			
+		</property>
+		
+	</class>
+</bean-mapping>

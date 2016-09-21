@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+  <info>
+    <urls>
+     
+    
+    </urls>
+  
+    <website>
+          <baseUrl>htttp://www.vatgia.com</baseUrl>  
+        <rewriterUrl>htttp://www.vatgia.com</rewriterUrl>        
+ </website>
+    <regexs>
+           <regex></regex>      
+    	  </regexs>
+ </info> 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bean-mapping>
+	
+	<database>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://210.211.97.11:3306/raovat2011?characterEncoding=UTF-8</url>
+		<user>quangpn</user>
+		<password>QuangPN2011@!!!*^</password>
+		<connects>2</connects>
+	</database>
+	
+	<database-log>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://210.211.97.11:3306/crawler?characterEncoding=UTF-8</url>
+		<user>quangpn</user>
+		<password>QuangPN2011@!!!*^</password>
+		<connects>2</connects>
+		<table-entity>crawler_vatgia_log</table-entity>
+		<table-image></table-image>
+	</database-log>
+	
+		<class table="classified">
+		<id column="cla_id"></id>
+		<xpath></xpath>
+		
+		<image column="cla_picture" name="thumn" node_type="string">
+			<xpath>//img[@id='photoActive']/@src</xpath>
+			<regex></regex>
+		</image>
+		<property column="cla_name" type="String" value="" node_type="string" filter="0">
+			<xpath>//div[@id='proTitle']/h1[1]/text()</xpath>
+		</property>
+		<property column="cla_contact" type="String" value="" node_type="string" filter="0">
+			<xpath>//div[@id='info']/div[2]/div[3]/div[2]/p[1]/text()</xpath>
+		</property>
+		<property column="cla_district" type="String" value="" node_type="string" filter="0">
+			<xpath>//div[@class='breadcrumbs']/a[5]/text()</xpath>
+		</property>
+		<property column="cla_city" type="String" value="" node_type="string" filter="0">
+			<xpath>//div[@class='breadcrumbs']/a[4]/text()</xpath>
+		</property>
+		<property column="cla_description" type="String" value="" node_type="nodeset" filter="0" changelink="1">
+			<xpath>//div[@id='pro-detail']</xpath>
+			<nodedelxpaths>
+				<nodedel xpath="//div[@id='pro-detail']/div[@class='pcomplain']"></nodedel>
+				<nodedel xpath="//div[@id='pro-detail']/div[@id='pro-att']"></nodedel>
+				<nodedel xpath="//div[@id='pro-comment']"></nodedel>
+				<nodedel xpath="//div[@id='pro-tool']"></nodedel>
+				<nodedel xpath="//div[@id='pro-share']"></nodedel>
+				<nodedel xpath="//div[@id='pro-detail']/div[@class='box-center']"></nodedel>			
+				<nodedel xpath="//div[@id='pro-detail']/div[@class='hide']"></nodedel>
+			</nodedelxpaths>
+			<nodedels>
+				<nodedel name="input" attribute="hidden"></nodedel>			
+			</nodedels>			
+		</property>
+		
+	</class>
+</bean-mapping>

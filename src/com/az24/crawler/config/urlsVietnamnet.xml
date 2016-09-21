@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <info>
+    <urls>
+      <url catid="28" fetchNumber="1" collection="8" pagePara="" regex="/vn/cong-nghe-thong-tin-vien-thong\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/cong-nghe-thong-tin-vien-thong/xa-lo/index.html
+      </url>
+      <url catid="28" fetchNumber="1" collection="8" pagePara="" regex="/vn/cong-nghe-thong-tin-vien-thong\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/cong-nghe-thong-tin-vien-thong/the-gioi-so/index.html
+      </url>
+      <url catid="28" fetchNumber="1" collection="8" pagePara="" regex="/vn/cong-nghe-thong-tin-vien-thong\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/cong-nghe-thong-tin-vien-thong/vien-thong/index.html
+      </url>
+      <url catid="28" fetchNumber="1" collection="8" pagePara="" regex="/vn/cong-nghe-thong-tin-vien-thong\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/cong-nghe-thong-tin-vien-thong/virus-hacker/index.html
+      </url>
+      <url catid="30" fetchNumber="1" collection="8" pagePara="" regex="/vn/cong-nghe-thong-tin-vien-thong\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/cong-nghe-thong-tin-vien-thong/san-pham/index.html
+      </url>
+      <url catid="29" fetchNumber="1" collection="8" pagePara="" regex="/vn/khoa-hoc/\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/khoa-hoc/cong-nghe/index.html
+      </url>
+      <url catid="29" fetchNumber="1" collection="8" pagePara="" regex="/vn/khoa-hoc/\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/khoa-hoc/moi-truong/index.html
+      </url>
+      <url catid="29" fetchNumber="1" collection="8" pagePara="" regex="/vn/khoa-hoc/\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/khoa-hoc/kham-pha/index.html
+      </url>
+      <url catid="24" fetchNumber="1" collection="8" pagePara="" regex="/vn/kinh-te/\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/kinh-te/thi-truong/index.html
+      </url>
+      <url catid="24" fetchNumber="1" collection="8" pagePara="" regex="/vn/kinh-te/\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/kinh-te/tai-chinh/index.html
+      </url>
+      <url catid="17" fetchNumber="1" collection="8" pagePara="" regex="/vn/chinh-tri/\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/chinh-tri/doi-noi/index.html
+      </url>
+      <url catid="17" fetchNumber="1" collection="8" pagePara="" regex="/vn/chinh-tri/\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/chinh-tri/doi-ngoai/index.html
+      </url>
+      <url catid="18" fetchNumber="1" collection="8" pagePara="" regex="/vn/chinh-tri/\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/chinh-tri/tien-luong/index.html
+      </url>
+      <url catid="18" fetchNumber="1" collection="8" pagePara="" regex="/vn/thoi-su-quoc-hoi/\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/thoi-su-quoc-hoi/index.html
+      </url>
+      <url catid="18" fetchNumber="1" collection="8" pagePara="" regex="/vn/chinh-tri/\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/chinh-tri/chong-tham-nhung/index.html
+      </url>
+      <url catid="43" fetchNumber="1" collection="8" pagePara="" regex="/vn/giao-duc/\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/giao-duc/tuyen-sinh/index.html
+      </url>
+      <url catid="43" fetchNumber="1" collection="8" pagePara="" regex="/vn/giao-duc/\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/giao-duc/chuyen-giang-duong/index.html
+      </url>
+      <url catid="42" fetchNumber="1" collection="8" pagePara="" regex="/vn/giao-duc/\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/giao-duc/du-hoc/index.html
+      </url>
+      <url catid="46" fetchNumber="1" collection="8" pagePara="" regex="vn/chuyen-trang/oto-xemay/\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/chuyen-trang/oto-xemay/index.html
+      </url>
+      <url catid="13" fetchNumber="1" collection="8" pagePara="" regex="/vn/quoc-te/\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/quoc-te/the-gioi-24h/index.html
+      </url>
+      <url catid="14" fetchNumber="1" collection="8" pagePara="" regex="/vn/quoc-te/\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/quoc-te/binh-luan/index.html
+      </url>
+      <url catid="14" fetchNumber="1" collection="8" pagePara="" regex="/vn/quoc-te/\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/quoc-te/ho-so/index.html
+      </url>
+      <url catid="15" fetchNumber="1" collection="8" pagePara="" regex="/vn/quoc-te/\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/quoc-te/vietnam-the-gioi/index.html
+      </url>
+      <url catid="52" fetchNumber="1" collection="8" pagePara="" regex="/vn/xa-hoi/\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/xa-hoi/du-lich/index.html
+      </url>
+      <url catid="40" fetchNumber="1" collection="8" pagePara="" regex="/vn/xa-hoi/\d+/.*html$" >
+            http://www.vietnamnet.vn/vn/xa-hoi/phap-luat/index.html
+      </url>
+    </urls>
+  
+    <website>
+          <baseUrl>http://www.vietnamnet.vn</baseUrl>  
+        <rewriterUrl>http://www.vietnamnet.vn</rewriterUrl>        
+ </website>
+    <regexs>
+           <regex>/c\d+/\d+/.*chn$</regex>      
+    	  </regexs>
+ </info> 

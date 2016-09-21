@@ -1,0 +1,248 @@
+<?xml version="1.0" ?>
+  <info>
+    <urls>
+      <url catid="983" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/10/ban-hang.html/page:1
+      </url>
+      <!-- 
+      <url catid="983" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/10/ban-hang.html/page:2
+      </url>
+      <url catid="2099" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/20/ban-hang.html/page:1
+      </url>
+      <url catid="2099" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/20/ban-hang.html/page:2
+      </url>
+      <url catid="2100" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/14/ban-hang.html/page:1
+      </url>
+      <url catid="2100" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/14/ban-hang.html/page:2
+      </url>
+      <url catid="2101" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/15/ban-hang.html/page:1
+      </url>
+      <url catid="2101" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/15/ban-hang.html/page:2
+      </url>
+      <url catid="2103" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/16/ban-hang.html/page:1
+      </url>
+      <url catid="2103" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/16/ban-hang.html/page:2
+      </url>
+      <url catid="2105" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/61/ban-hang.html/page:1
+      </url>
+      <url catid="2105" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/61/ban-hang.html/page:2
+      </url>
+      <url catid="2106" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/18/ban-hang.html/page:1
+      </url>
+      <url catid="2106" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/18/ban-hang.html/page:2
+      </url>
+      <url catid="2108" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/23/ban-hang.html/page:1
+      </url>
+      <url catid="2108" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/23/ban-hang.html/page:2
+      </url>
+      <url catid="2110" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/62/ban-hang.html/page:1
+      </url>
+      <url catid="2110" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/62/ban-hang.html/page:2
+      </url>
+      <url catid="2115" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/17/ban-hang.html/page:1
+      </url>
+      <url catid="2115" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/17/ban-hang.html/page:2
+      </url>
+      <url catid="2119" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/45/ban-hang.html/page:1
+      </url>
+      <url catid="2119" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/45/ban-hang.html/page:2
+      </url>
+      <url catid="2121" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/38/ban-hang.html/page:1
+      </url>
+      <url catid="2121" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/38/ban-hang.html/page:2
+      </url>
+      <url catid="2122" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/40/ban-hang.html/page:1
+      </url>
+      <url catid="2122" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/40/ban-hang.html/page:2
+      </url>
+      <url catid="2123" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/32/ban-hang.html/page:1
+      </url>
+      <url catid="2123" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/32/ban-hang.html/page:2
+      </url>
+      <url catid="2127" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/42/ban-hang.html/page:1
+      </url>
+      <url catid="2127" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/42/ban-hang.html/page:2
+      </url>
+      <url catid="2132" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/37/ban-hang.html/page:1
+      </url>
+      <url catid="2132" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/37/ban-hang.html/page:2
+      </url>
+      <url catid="2137" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/51/ban-hang.html/page:1
+      </url>
+      <url catid="2137" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/51/ban-hang.html/page:2
+      </url>
+      <url catid="2138" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/35/ban-hang.html/page:1
+      </url>
+      <url catid="2138" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/35/ban-hang.html/page:2
+      </url>
+      <url catid="2144" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/52/ban-hang.html/page:1
+      </url>
+      <url catid="2144" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/52/ban-hang.html/page:2
+      </url>
+      <url catid="2098" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/11/ban-hang.html/page:1
+      </url>
+      <url catid="2098" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/11/ban-hang.html/page:2
+      </url>
+      <url catid="1966" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/13/ban-hang.html/page:1
+      </url>
+      <url catid="1966" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/13/ban-hang.html/page:2
+      </url>
+      <url catid="1967" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/19/ban-hang.html/page:1
+      </url>
+      <url catid="1967" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/19/ban-hang.html/page:2
+      </url>
+      <url catid="992" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/27/ban-hang.html/page:1
+      </url>
+      <url catid="992" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/27/ban-hang.html/page:2
+      </url>
+      <url catid="981" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/22/ban-hang.html/page:1
+      </url>
+      <url catid="981" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/22/ban-hang.html/page:2
+      </url>
+      <url catid="998" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/47/ban-hang.html/page:1
+      </url>
+      <url catid="998" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/47/ban-hang.html/page:2
+      </url>
+      <url catid="1968" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/41/ban-hang.html/page:1
+      </url>
+      <url catid="1968" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/41/ban-hang.html/page:2
+      </url>
+      <url catid="1969" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/46/ban-hang.html/page:1
+      </url>
+      <url catid="1969" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/46/ban-hang.html/page:2
+      </url>
+      <url catid="1970" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/12/ban-hang.html/page:1
+      </url>
+      <url catid="1970" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/12/ban-hang.html/page:2
+      </url>
+      <url catid="985" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/26/ban-hang.html/page:1
+      </url>
+      <url catid="985" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/26/ban-hang.html/page:2
+      </url>
+      <url catid="1000" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/50/ban-hang.html/page:1
+      </url>
+      <url catid="1000" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/50/ban-hang.html/page:2
+      </url>
+      <url catid="1972" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/34/ban-hang.html/page:1
+      </url>
+      <url catid="1972" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/34/ban-hang.html/page:2
+      </url>
+      <url catid="977" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/44/ban-hang.html/page:1
+      </url>
+      <url catid="977" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/44/ban-hang.html/page:2
+      </url>
+      <url catid="978" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/29/ban-hang.html/page:1
+      </url>
+      <url catid="978" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/29/ban-hang.html/page:2
+      </url>
+      <url catid="995" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/33/ban-hang.html/page:1
+      </url>
+      <url catid="995" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/33/ban-hang.html/page:2
+      </url>
+      <url catid="980" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/54/ban-hang.html/page:1
+      </url>
+      <url catid="980" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/54/ban-hang.html/page:2
+      </url>
+      <url catid="982" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/31/ban-hang.html/page:1
+      </url>
+      <url catid="982" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/31/ban-hang.html/page:2
+      </url>
+      <url catid="1975" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/36/ban-hang.html/page:1
+      </url>
+      <url catid="1975" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/36/ban-hang.html/page:2
+      </url>
+      <url catid="989" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/39/ban-hang.html/page:1
+      </url>
+      <url catid="989" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/39/ban-hang.html/page:2
+      </url>
+      <url catid="1005" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/53/ban-hang.html/page:1
+      </url>
+      <url catid="1005" regex="/vieclam/congviec/\d+/.*html$">
+            http://www.timviecnhanh.com/vieclam/tuyendung/53/ban-hang.html/page:2
+      </url> -->
+    </urls>
+  
+    <website>
+          <baseUrl>http://www.timviecnhanh.com</baseUrl>  
+        <rewriterUrl>http://www.timviecnhanh.com</rewriterUrl>        
+ </website>
+    <regexs>
+           <regex></regex>      
+    	  </regexs>
+ </info> 

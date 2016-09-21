@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bean-mapping>
+	<database>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://192.168.1.101:3306/qa?characterEncoding=UTF-8</url>
+		<user>synuser</user>
+		<password>SynUser2011</password>
+		<connects>2</connects>
+	</database>
+	
+	<database-log>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://192.168.1.101:3306/crawler?characterEncoding=UTF-8</url>
+		<user>synuser</user>
+		<password>SynUser2011</password>
+		<connects>2</connects>
+		<table-entity>crawler_tinhte_log</table-entity>
+		<table-image>crawler_tinhte_image_log</table-image>
+	</database-log>
+	<class table="qa_question">
+		<id column="id"></id>
+		<xpath></xpath>
+
+		<property column="subject" type="String" value="" node_type="string" filter="1">
+			<xpath>html/body[1]/div[@id='pageWrapper']/div[@id='contentMain']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[@id='pagetitle']/h1[1]/span[1]/a[1]/text()</xpath>
+		</property>
+		<property column="content" type="String" value="" node_type="nodeset" filter="1" changelink="1">
+			<xpath>html/body[1]/div[@id='pageWrapper']/div[@id='contentMain']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[@id='postlist']/div[1]/ol[@id='posts']/li[1]/div[2]/div[2]/div[1]/div[3]/div[1]/blockquote[1]</xpath>
+		</property>
+		<one-to-many table="qa_answer">
+			<xpath>html/body[1]/div[@id='pageWrapper']/div[@id='contentMain']/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[@id='postlist']/div[1]/ol[@id='posts']/li</xpath>
+			<id column="id" ></id>
+			<pkey column="id_question" type="int"></pkey>
+			<property column="answer" type="String" node_type="nodeset" filter="0" changelink="1">
+				<xpath>/div[2]/div[2]/div[1]/div[1]/div[1]/blockquote[1]</xpath>
+			</property>			
+		</one-to-many>		
+	</class>
+</bean-mapping>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <info>
+    <urls>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=35
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=34
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=33
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=32
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=31
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=30
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=29
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=28
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=27
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=26
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=25
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=24
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=23
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=22
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=21
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=20
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=19
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=18
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=17
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=16
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=15
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=14
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=13
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=12
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=11
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=10
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=9
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=8
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=7
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=6
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=5
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=4
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=3
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=2
+      </url>
+      <url catid="33" fetchNumber="1" collection="6" pagePara="" regex="zing.vn/news/viec-lam/.*/a\d+.*html$" >
+            http://www.zing.vn/news/nhip-song-tre/viec-lam.html?p=1
+      </url>
+    </urls>
+  
+    <website>
+          <baseUrl>http://zing.vn</baseUrl>  
+        <rewriterUrl>http://zing.vn</rewriterUrl>        
+ </website>
+    <regexs>
+           <regex>zing.vn/news/viec-lam/.*/a\d+.*html$</regex>      
+    	  </regexs>
+ </info> 

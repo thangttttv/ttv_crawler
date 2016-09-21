@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <info>
+    <urls>
+      <url catid="29" fetchNumber="1" collection="4" pagePara="" regex=".*\d+.hht$" >
+            http://muctim.com.vn/Vietnam/The-gioi-tuoi-moi-lon/Ky-nang-song/
+      </url>
+      <url catid="2" fetchNumber="1" collection="4" pagePara="" regex=".*\d+.hht$" >
+            http://muctim.com.vn/Vietnam/Van-hoa-Nghe-thuat/Am-nhac/
+      </url>
+      <url catid="3" fetchNumber="1" collection="4" pagePara="" regex=".*\d+.hht$" >
+            http://muctim.com.vn/Vietnam/Van-hoa-Nghe-thuat/Dien-anh/
+      </url>
+      <url catid="37" fetchNumber="1" collection="4" pagePara="" regex=".*\d+.hht$" >
+            http://muctim.com.vn/Vietnam/The-gioi-tuoi-moi-lon/Cam-nang-TY/
+      </url>
+      <url catid="24" fetchNumber="1" collection="4" pagePara="" regex=".*\d+.hht$" >
+            http://muctim.com.vn/Vietnam/Van-hoa-Nghe-thuat/Thoi-trang/Biquyetdep/
+      </url>
+      <url catid="43" fetchNumber="1" collection="4" pagePara="" regex=".*\d+.hht$" >
+            http://muctim.com.vn/Vietnam/Van-hoa-Nghe-thuat/Am-thuc/
+      </url>
+      <url catid="42" fetchNumber="1" collection="4" pagePara="" regex=".*\d+.hht$" >
+            http://muctim.com.vn/Vietnam/Van-hoa-Nghe-thuat/Kheo-tay/
+      </url>
+    </urls>  
+    <website>
+          <baseUrl>http://muctim.com.vn</baseUrl>  
+        <rewriterUrl>http://muctim.com.vn</rewriterUrl>        
+ </website>
+    <regexs>
+           <regex>.*\d+/$</regex>      
+    	  </regexs>
+ </info> 

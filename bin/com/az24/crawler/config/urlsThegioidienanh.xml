@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+	<urls>
+		<url catid="30" fetchNumber="1" collection="2" pagePara="">
+			http://thegioidienanh.vn/index.php?option=com_contentampview=categoryamplayout=blogampid=36ampItemid=2
+		</url>
+	</urls>
+	<website>
+		<baseUrl>http://thegioidienanh.vn</baseUrl>
+		<rewriterUrl>http://thegioidienanh.vn</rewriterUrl>
+	</website>
+	<regexs>
+		<regex>thegioidienanh.vn/index.php?option=com_contentampview=articleampid=\d+</regex>
+	</regexs>
+</info>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jdbm>
+	<url>/data/crawler/data/enbac/url</url>
+	<url-store>/data/crawler/data/enbac/store</url-store>
+	<datum>/data/crawler/data/enbac/datum</datum>
+	<datum-store>/data/crawler/data/enbac/store</datum-store>
+	<extract>/data/crawler/data/enbac/extract</extract>
+	<extract-store>/data/crawler/data/enbac/store</extract-store>
+	<url-image>/data/crawler/data/enbac/image</url-image>
+	<keyword-filter>/data/crawler/data/enbac</keyword-filter>
+	<user-qa>/data/crawler/data/enbac</user-qa>
+	<file-log>/data/crawler/data/enbac/enbac</file-log>
+</jdbm>

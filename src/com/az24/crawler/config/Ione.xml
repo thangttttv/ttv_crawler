@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <info>
+    <urls>
+      <url catid="26" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/nhip-song/quan-xa/trang-2.html
+      </url>
+      <url catid="26" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/nhip-song/quan-xa/trang-1.html
+      </url>
+      <url catid="27" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/nhip-song/guong-mat/trang-2.html
+      </url>
+      <url catid="27" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/nhip-song/guong-mat/trang-1.html
+      </url>
+      <url catid="30" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/balo-teen/trang-2.html
+      </url>
+      <url catid="30" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/balo-teen/trang-1.html
+      </url>
+      <url catid="41" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/the-thao/hau-truong/trang-2.html
+      </url>
+      <url catid="41" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/the-thao/hau-truong/trang-1.html
+      </url>
+      <url catid="22" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/thoi-trang/bo-suu-tap/trang-2.html
+      </url>
+      <url catid="22" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/thoi-trang/bo-suu-tap/trang-1.html
+      </url>
+      <url catid="23" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/thoi-trang/hot-trends/trang-2.html
+      </url>
+      <url catid="23" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/thoi-trang/hot-trends/trang-1.html
+      </url>
+      <url catid="37" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/gioi-tinh/tamsu-xy/trang-2.html
+      </url>
+      <url catid="37" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/gioi-tinh/tamsu-xy/trang-1.html
+      </url>
+      <url catid="36" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/gioi-tinh/dep+/trang-2.html
+      </url>
+      <url catid="36" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/gioi-tinh/dep+/trang-1.html
+      </url>
+      <url catid="35" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/gioi-tinh/kien-thuc/trang-2.html
+      </url>
+      <url catid="35" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/gioi-tinh/kien-thuc/trang-1.html
+      </url>
+      <url catid="42" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/do-tu-che/lo-mo/trang-2.html
+      </url>
+      <url catid="42" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/do-tu-che/lo-mo/trang-1.html
+      </url>
+      <url catid="42" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/do-tu-che/bep-nuc/trang-2.html
+      </url>
+      <url catid="42" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/do-tu-che/bep-nuc/trang-1.html
+      </url>
+      <url catid="31" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/hoc-duong/du-hoc/trang-2.html
+      </url>
+      <url catid="31" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/hoc-duong/du-hoc/trang-1.html
+      </url>
+      <url catid="32" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/hoc-duong/tuyen-sinh/trang-2.html
+      </url>
+      <url catid="32" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/hoc-duong/tuyen-sinh/trang-1.html
+      </url>
+      <url catid="34" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/hoc-duong/cong-truong/trang-2.html
+      </url>
+      <url catid="34" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/hoc-duong/cong-truong/trang-1.html
+      </url>
+      <url catid="11" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/vui-la/trang-2.html
+      </url>
+      <url catid="11" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/vui-la/trang-1.html
+      </url>
+      <url catid="9" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/hitek/trang-2.html
+      </url>
+      <url catid="9" fetchNumber="1" collection="2" pagePara="" >
+            http://ione.net/tin-tuc/hitek/trang-1.html
+      </url>
+    </urls>
+  
+    <website>
+          <baseUrl>http://ione.net</baseUrl>  
+        <rewriterUrl>http://ione.net</rewriterUrl>        
+ </website>
+    <regexs>
+           <regex></regex>      
+    	  </regexs>
+ </info> 

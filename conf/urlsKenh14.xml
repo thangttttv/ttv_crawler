@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+	<urls>
+		<url catid="13" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/ngoi-sao/trang-1.chn
+		</url>
+		<url catid="13" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/ngoi-sao/trang-2.chn
+		</url>
+		<url catid="13" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/ngoi-sao/trang-3.chn
+		</url>
+		<url catid="13" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/ngoi-sao/trang-4.chn
+		</url>
+		<url catid="13" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/ngoi-sao/trang-5.chn
+		</url>
+		<url catid="13" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/ngoi-sao/v-star/trang-1.chn
+		</url>
+		<url catid="13" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/ngoi-sao/v-star/trang-2.chn
+		</url>
+		<url catid="13" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/ngoi-sao/v-star/trang-3.chn
+		</url>
+		<url catid="13" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/ngoi-sao/v-star/trang-4.chn
+		</url>
+		<url catid="13" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/ngoi-sao/v-star/trang-5.chn
+		</url>
+		<url catid="16" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/am-nhac/nhac-viet/trang-1.chn
+		</url>
+		<url catid="16" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/am-nhac/nhac-viet/trang-2.chn
+		</url>
+		<url catid="16" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/am-nhac/nhac-viet/trang-3.chn
+		</url>
+		<url catid="16" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/am-nhac/nhac-viet/trang-4.chn
+		</url>
+		<url catid="16" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/am-nhac/nhac-viet/trang-5.chn
+		</url>
+		<url catid="17" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/am-nhac/chau-a/trang-1.chn
+		</url>
+		<url catid="17" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/am-nhac/chau-a/trang-2.chn
+		</url>
+		<url catid="17" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/am-nhac/chau-a/trang-3.chn
+		</url>
+		<url catid="17" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/am-nhac/chau-a/trang-4.chn
+		</url>
+		<url catid="17" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/am-nhac/chau-a/trang-5.chn
+		</url>
+		<url catid="18" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/am-nhac/au-my/trang-1.chn
+		</url>
+		<url catid="18" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/am-nhac/au-my/trang-2.chn
+		</url>
+		<url catid="18" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/am-nhac/au-my/trang-3.chn
+		</url>
+		<url catid="18" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/am-nhac/au-my/trang-4.chn
+		</url>
+		<url catid="18" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/am-nhac/au-my/trang-5.chn
+		</url>
+		<url catid="19" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/phim-anh/phim-viet-nam/trang-1.chn
+		</url>
+		<url catid="19" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/phim-anh/phim-viet-nam/trang-2.chn
+		</url>
+		<url catid="19" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/phim-anh/phim-viet-nam/trang-3.chn
+		</url>
+		<url catid="19" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/phim-anh/phim-viet-nam/trang-4.chn
+		</url>
+		<url catid="19" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/phim-anh/phim-viet-nam/trang-5.chn
+		</url>
+		<url catid="20" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/phim-anh/phim-chau-a/trang-1.chn
+		</url>
+		<url catid="20" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/phim-anh/phim-chau-a/trang-2.chn
+		</url>
+		<url catid="20" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/phim-anh/phim-chau-a/trang-3.chn
+		</url>
+		<url catid="20" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/phim-anh/phim-chau-a/trang-4.chn
+		</url>
+		<url catid="20" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/phim-anh/phim-chau-a/trang-5.chn
+		</url>
+		<url catid="21" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/phim-anh/phim-au-my/trang-1.chn
+		</url>
+		<url catid="21" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/phim-anh/phim-au-my/trang-2.chn
+		</url>
+		<url catid="21" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/phim-anh/phim-au-my/trang-3.chn
+		</url>
+		<url catid="21" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/phim-anh/phim-au-my/trang-4.chn
+		</url>
+		<url catid="21" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/phim-anh/phim-au-my/trang-5.chn
+		</url>
+		<url catid="23" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/xu-huong/trang-1.chn
+		</url>
+		<url catid="23" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/xu-huong/trang-2.chn
+		</url>
+		<url catid="23" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/xu-huong/trang-3.chn
+		</url>
+		<url catid="23" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/xu-huong/trang-4.chn
+		</url>
+		<url catid="23" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/xu-huong/trang-5.chn
+		</url>
+		<url catid="24" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/mix-do/trang-1.chn
+		</url>
+		<url catid="24" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/mix-do/trang-2.chn
+		</url>
+		<url catid="24" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/mix-do/trang-3.chn
+		</url>
+		<url catid="24" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/mix-do/trang-4.chn
+		</url>
+		<url catid="24" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/mix-do/trang-5.chn
+		</url>
+		<url catid="25" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/star-style/trang-1.chn
+		</url>
+		<url catid="25" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/star-style/trang-2.chn
+		</url>
+		<url catid="25" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/star-style/trang-3.chn
+		</url>
+		<url catid="25" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/star-style/trang-4.chn
+		</url>
+		<url catid="25" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/star-style/trang-5.chn
+		</url>
+		<url catid="23" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/teenlook/trang-1.chn
+		</url>
+		<url catid="23" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/teenlook/trang-2.chn
+		</url>
+		<url catid="23" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/teenlook/trang-3.chn
+		</url>
+		<url catid="23" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/teenlook/trang-4.chn
+		</url>
+		<url catid="23" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/teenlook/trang-5.chn
+		</url>
+		<url catid="24" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/tieu-diem/trang-1.chn
+		</url>
+		<url catid="24" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/tieu-diem/trang-2.chn
+		</url>
+		<url catid="24" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/tieu-diem/trang-3.chn
+		</url>
+		<url catid="24" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/tieu-diem/trang-4.chn
+		</url>
+		<url catid="24" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/thoi-trang/tieu-diem/trang-5.chn
+		</url>
+		<url catid="28" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/doi-song/teen-story/trang-1.chn
+		</url>
+		<url catid="28" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/doi-song/teen-story/trang-2.chn
+		</url>
+		<url catid="28" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/doi-song/teen-story/trang-3.chn
+		</url>
+		<url catid="28" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/doi-song/teen-story/trang-4.chn
+		</url>
+		<url catid="28" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/doi-song/teen-story/trang-5.chn
+		</url>
+		<url catid="26" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/doi-song/quan-xa/trang-1.chn
+		</url>
+		<url catid="26" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/doi-song/quan-xa/trang-2.chn
+		</url>
+		<url catid="26" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/doi-song/quan-xa/trang-3.chn
+		</url>
+		<url catid="26" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/doi-song/quan-xa/trang-4.chn
+		</url>
+		<url catid="26" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/doi-song/quan-xa/trang-5.chn
+		</url>
+		<url catid="31" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/hoc-duong/du-hoc/trang-1.chn
+		</url>
+		<url catid="31" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/hoc-duong/du-hoc/trang-2.chn
+		</url>
+		<url catid="31" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/hoc-duong/du-hoc/trang-3.chn
+		</url>
+		<url catid="31" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/hoc-duong/du-hoc/trang-4.chn
+		</url>
+		<url catid="31" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/hoc-duong/du-hoc/trang-5.chn
+		</url>
+		<url catid="34" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/hoc-duong/46-news/trang-1.chn
+		</url>
+		<url catid="34" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/hoc-duong/46-news/trang-2.chn
+		</url>
+		<url catid="34" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/hoc-duong/46-news/trang-3.chn
+		</url>
+		<url catid="34" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/hoc-duong/46-news/trang-4.chn
+		</url>
+		<url catid="34" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/hoc-duong/46-news/trang-5.chn
+		</url>
+		<url catid="35" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/gioi-tinh/kien-thuc-gioi-tinh/trang-1.chn
+		</url>
+		<url catid="35" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/gioi-tinh/kien-thuc-gioi-tinh/trang-2.chn
+		</url>
+		<url catid="35" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/gioi-tinh/kien-thuc-gioi-tinh/trang-3.chn
+		</url>
+		<url catid="35" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/gioi-tinh/kien-thuc-gioi-tinh/trang-4.chn
+		</url>
+		<url catid="35" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/gioi-tinh/kien-thuc-gioi-tinh/trang-5.chn
+		</url>
+		<url catid="38" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/gioi-tinh/cau-chuyen-gioi-tinh/trang-1.chn
+		</url>
+		<url catid="38" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/gioi-tinh/cau-chuyen-gioi-tinh/trang-2.chn
+		</url>
+		<url catid="38" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/gioi-tinh/cau-chuyen-gioi-tinh/trang-3.chn
+		</url>
+		<url catid="38" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/gioi-tinh/cau-chuyen-gioi-tinh/trang-4.chn
+		</url>
+		<url catid="38" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/gioi-tinh/cau-chuyen-gioi-tinh/trang-5.chn
+		</url>
+		<url catid="36" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/gioi-tinh/dep/trang-1.chn
+		</url>
+		<url catid="36" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/gioi-tinh/dep/trang-2.chn
+		</url>
+		<url catid="36" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/gioi-tinh/dep/trang-3.chn
+		</url>
+		<url catid="36" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/gioi-tinh/dep/trang-4.chn
+		</url>
+		<url catid="36" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/gioi-tinh/dep/trang-5.chn
+		</url>
+		<url catid="41" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/sport/ben-le-san-dau/trang-1.chn
+		</url>
+		<url catid="41" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/sport/ben-le-san-dau/trang-2.chn
+		</url>
+		<url catid="41" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/sport/ben-le-san-dau/trang-3.chn
+		</url>
+		<url catid="41" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/sport/ben-le-san-dau/trang-4.chn
+		</url>
+		<url catid="41" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/sport/ben-le-san-dau/trang-5.chn
+		</url>
+		<url catid="9" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/cong-nghe/trang-1.chn
+		</url>
+		<url catid="9" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/cong-nghe/trang-2.chn
+		</url>
+		<url catid="9" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/cong-nghe/trang-3.chn
+		</url>
+		<url catid="9" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/cong-nghe/trang-4.chn
+		</url>
+		<url catid="9" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/cong-nghe/trang-5.chn
+		</url>
+		<url catid="10" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/made-by-teens/do-thu-cong/trang-1.chn
+		</url>
+		<url catid="10" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/made-by-teens/do-thu-cong/trang-2.chn
+		</url>
+		<url catid="10" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/made-by-teens/do-thu-cong/trang-3.chn
+		</url>
+		<url catid="10" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/made-by-teens/do-thu-cong/trang-4.chn
+		</url>
+		<url catid="10" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/made-by-teens/do-thu-cong/trang-5.chn
+		</url>
+		<url catid="10" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/made-by-teens/nau-an/trang-1.chn
+		</url>
+		<url catid="10" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/made-by-teens/nau-an/trang-2.chn
+		</url>
+		<url catid="10" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/made-by-teens/nau-an/trang-3.chn
+		</url>
+		<url catid="10" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/made-by-teens/nau-an/trang-4.chn
+		</url>
+		<url catid="10" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/made-by-teens/nau-an/trang-5.chn
+		</url>
+		<url catid="43" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/made-by-teens/thu-vien-teens-lam/trang-1.chn
+		</url>
+		<url catid="43" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/made-by-teens/thu-vien-teens-lam/trang-2.chn
+		</url>
+		<url catid="43" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/made-by-teens/thu-vien-teens-lam/trang-3.chn
+		</url>
+		<url catid="43" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/made-by-teens/thu-vien-teens-lam/trang-4.chn
+		</url>
+		<url catid="43" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/made-by-teens/thu-vien-teens-lam/trang-5.chn
+		</url>
+		<url catid="44" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/chuyen-la/trang-1.chn
+		</url>
+		<url catid="44" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/chuyen-la/trang-2.chn
+		</url>
+		<url catid="44" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/chuyen-la/trang-3.chn
+		</url>
+		<url catid="44" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/chuyen-la/trang-4.chn
+		</url>
+		<url catid="44" fetchNumber="1" collection="2" pagePara="">
+			http://kenh14.vn/chuyen-la/trang-5.chn
+		</url>
+	</urls>
+
+	<website>
+		<baseUrl>http://kenh14.vn</baseUrl>
+		<rewriterUrl>http://kenh14.vn</rewriterUrl>
+	</website>
+	<regexs>
+		<regex>/c\d+/\d+/.*chn$</regex>
+	</regexs>
+</info>

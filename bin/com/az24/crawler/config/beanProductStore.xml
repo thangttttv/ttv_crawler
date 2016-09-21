@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bean-mapping>
+	<database>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://210.211.97.11:3306/az24_store?characterEncoding=UTF-8</url>
+		<user>product</user>
+		<password>product!@#$%^</password>
+		<connects>2</connects>
+	</database>
+	
+  <database-log>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://210.211.97.11:3306/crawler?characterEncoding=UTF-8</url>
+		<user>quangpn</user>
+		<password>QuangPN2011@!!!*^</password>
+		<connects>2</connects>
+		<table-entity>tb_importer</table-entity>
+		<table-image>tb_image</table-image>
+	</database-log>
+
+	<class table="product">
+		<id column="id"></id>
+		<xpath></xpath>
+
+
+		<image column="picture" name="picture" node_type="string">
+			<xpath>
+				//TABLE[@id='table871']/TBODY[1]/TR[2]/TD[1]/IMG[1]/@src
+			</xpath>
+			<regex></regex>
+		</image>
+		
+
+		<property column="name" type="String" value=""	node_type="string" filter="0">
+			<xpath>
+				html/body[1]/div[@id='wrapper']/div[@id='body']/div[@id='main']/div[1]/table[1]/TBODY[1]/tr[1]/TD[2]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/text()
+			</xpath>
+		</property>
+		
+		<property column="price" type="String" value=""
+			node_type="string" filter="0">
+			<xpath>
+				html/body[1]/div[@id='wrapper']/div[@id='body']/div[@id='main']/div[1]/table[1]/TBODY[1]/tr[1]/TD[2]/TABLE[1]/TBODY[1]/TR[2]/TD[1]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/TABLE[1]/TBODY[1]/TR[2]/TD[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/FONT[1]/text()
+			</xpath>
+		</property>
+		
+		<property column="price_vat" type="String" value=""
+			node_type="string" filter="0">
+			<xpath>
+				html/body[1]/div[@id='body']/div[@id='container_body']/div[@id='container_content']/div[1]/div[1]/div[2]/table[1]/TBODY[1]/tr[1]/td[2]/b[1]/text()
+			</xpath>
+		</property>
+		
+		<property column="quantity" type="String" value=""
+			node_type="string" filter="0">
+			<xpath>
+				html/body[1]/div[@id='body']/div[@id='container_body']/div[@id='container_content']/div[1]/div[1]/div[2]/table[1]/TBODY[1]/tr[1]/td[2]/b[1]/text()
+			</xpath>
+		</property>
+		
+		<property column="quanlity" type="String" value=""
+			node_type="string" filter="0">
+			<xpath>
+				html/body[1]/div[@id='body']/div[@id='container_body']/div[@id='container_content']/div[1]/div[1]/div[2]/table[1]/TBODY[1]/tr[1]/td[2]/b[1]/text()
+			</xpath>
+		</property>
+		
+		<property column="made_in" type="String" value=""
+			node_type="string" filter="0">
+			<xpath>
+				html/body[1]/div[@id='body']/div[@id='container_body']/div[@id='container_content']/div[1]/div[1]/div[2]/table[1]/TBODY[1]/tr[1]/td[2]/b[1]/text()
+			</xpath>
+		</property>
+		
+		<property column="transport" type="String" value=""
+			node_type="string" filter="0">
+			<xpath>
+				html/body[1]/div[@id='body']/div[@id='container_body']/div[@id='container_content']/div[1]/div[1]/div[2]/table[1]/TBODY[1]/tr[1]/td[2]/b[1]/text()
+			</xpath>
+		</property>
+		
+		<property column="description" type="String" value="" node_type="nodeset" filter="0">
+			<xpath>
+				//div[@class='product_description']
+			</xpath>
+		</property>
+
+		<one-to-many table="product_data">
+			<xpath>
+				html/body[1]/div[@id='body']/div[@id='container_body']/div[@id='container_content']/div[1]/div[1]/div[@id='product_technical']/table[1]/TBODY[1]/tr
+			</xpath>
+			<id column="id"></id>
+			<pkey column="id" type="int"></pkey>
+		</one-to-many>
+	</class>
+</bean-mapping>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bean-mapping>
+	
+	<database>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://210.211.97.11:3306/raovat2011?characterEncoding=UTF-8</url>
+		<user>quangpn</user>
+		<password>QuangPN2011@!!!*^</password>
+		<connects>2</connects>
+	</database>
+	
+	<database-log>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://210.211.97.11:3306/crawler?characterEncoding=UTF-8</url>
+		<user>quangpn</user>
+		<password>QuangPN2011@!!!*^</password>
+		<connects>2</connects>
+		<table-entity>crawler_vatgia_log</table-entity>
+		<table-image></table-image>
+	</database-log>
+	
+		<class table="classified">
+		<id column="cla_id"></id>
+		<xpath></xpath>
+		
+		<image column="cla_picture" name="thumn" node_type="string">
+			<xpath>//div[@id='gallery']/div[@class='img_body']/a[1]/img[1]/@src</xpath>
+			<regex>http://enbac10.vcmedia.vn/thumb_max</regex>
+		</image>
+	
+		<property column="cla_name" type="String" value="" node_type="string" filter="0">
+			<xpath>//div[@id='item_name']//@title</xpath>
+		</property>
+		<property column="cla_description" type="String" value="" node_type="nodeset" filter="0" changelink="1">
+			<xpath>//div[@id='item_desc']</xpath>
+		</property>
+		<property column="cla_contact" type="String" value="" node_type="string" filter="0">
+			<xpath>//div[@class='author_info h_profile_des floatLeft']/div[3]</xpath>
+		</property>
+	</class>
+</bean-mapping>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bean-mapping>
+	<database>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://210.211.97.11:3306/az24_store?characterEncoding=UTF-8</url>
+		<user>product</user>
+		<password>product!@#$%^</password>
+		<connects>2</connects>
+	</database>
+	
+  <database-log>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://210.211.97.11:3306/crawler?characterEncoding=UTF-8</url>
+		<user>quangpn</user>
+		<password>QuangPN2011@!!!*^</password>
+		<connects>2</connects>
+		<table-entity>tb_importer</table-entity>
+		<table-image>tb_image</table-image>
+	</database-log>
+
+	<class table="product">
+		<id column="id"></id>
+		<xpath></xpath>
+		<image column="picture" name="picture" node_type="string">
+			<xpath>
+				//DIV[@id='wrap']/A[1]/@href
+			</xpath>
+			<regex></regex>
+		</image>
+		<property column="name" type="String" value=""	node_type="string" filter="0">
+			<xpath>
+				//span[@id='titleDisplay']/text()
+			</xpath>
+		</property>		
+		<property column="price" type="String" value=""
+			node_type="string" filter="0">
+			<xpath>
+				//span[@class='setPrice']/b[1]/text()
+			</xpath>
+		</property>
+		<property column="quantity" type="String" value=""
+			node_type="string" filter="0">
+			<xpath>
+				//div[@class='boxModule blckPrice']/div[1]/div[1]/div[1]/p[4]/span[2]/text()
+			</xpath>
+		</property>
+		<property column="transport" type="String" value=""
+			node_type="string" filter="0">
+			<xpath>
+				//div[@class='boxModule blckPrice']/div[1]/div[1]/div[1]/p[3]/span[2]/text()
+			</xpath>
+		</property>
+		
+		<property column="description" type="String" value="" node_type="nodeset" filter="0">
+			<xpath>
+				//div[@class='Products-detail']
+			</xpath>
+		</property>
+
+		<one-to-many table="product_data">
+			<xpath>
+				html/BODY[1]/div[@id='wrapper']/div[1]/div[2]/div[5]/div[2]/ul[1]/li
+			</xpath>
+			<xpath_sub_label>
+				/div[1]/text()
+			</xpath_sub_label>
+			<xpath_sub_value>
+				/div[2]
+			</xpath_sub_value>
+			<id column="id"></id>
+			<pkey column="id" type="int"></pkey>
+		</one-to-many>
+	</class>
+</bean-mapping>

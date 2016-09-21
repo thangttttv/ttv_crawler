@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bean-mapping>
+	<database>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://210.211.97.11:3306/raovat2011?characterEncoding=UTF-8</url>
+		<user>quangpn</user>
+		<password>QuangPN2011@!!!*^</password>
+		<connects>2</connects>
+	</database>
+	
+	<database-log>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://210.211.97.11:3306/crawler?characterEncoding=UTF-8</url>
+		<user>quangpn</user>
+		<password>QuangPN2011@!!!*^</password>
+		<connects>2</connects>
+		<table-entity>crawler_vatgia_log</table-entity>
+		<table-image></table-image>
+	</database-log>
+	
+	
+	<class table="classified">
+		<id column="cla_id"></id>
+		<xpath></xpath>		
+		<image column="cla_picture" name="thumn" node_type="string">
+			<xpath>//a[@rel='raovat_picture']/img/@src</xpath>
+			<regex>raovat_pictures</regex>
+		</image>		
+		<property column="cla_name" type="String" value="" node_type="string" filter="0">
+			<xpath>//div[@class='header_navigate_div']/a[1]/b[1]/text()</xpath>
+		</property>
+		<property column="cla_description" type="String" value="" node_type="nodeset" filter="0">	           
+			<xpath>//div[@id='raovat_description']</xpath>
+		</property>
+		<property column="city" type="String" value="" node_type="string" filter="0">
+			<xpath>//div[@class='raovat_information']/table[1]/TBODY[1]/tr[3]/td[1]/table[2]/TBODY[1]/tr[4]/td[2]/strong/text()</xpath>
+		</property>
+		<property column="cla_contact" type="String" value="" node_type="string" filter="0" changelink="1">
+			<xpath>//div[@class='poster_information']/table[1]/TBODY[1]/tr[4]/td[2]/text()</xpath>
+		</property>
+	</class>
+</bean-mapping>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<info>
+	<urls>
+	  <url catid="632" fetchNumber="1" fetchFrom="1" fetchTo="2"  regex="http://www.vatgia.com/com/568/\d+/.*.html$" pagePara="">
+            http://vatgia.com/568,month/oto-du-lich.html,2_20
+      </url>      
+	</urls>
+	<website>
+		<baseUrl>http://www.vatgia.com</baseUrl>
+		<rewriterUrl>http://www.vatgia.com</rewriterUrl>
+	</website>
+	<regexs>
+		<regex>http://www.vatgia.com/348/\d+/.*.html$</regex>
+	</regexs>
+</info>

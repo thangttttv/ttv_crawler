@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bean-mapping>
+<database>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://192.168.1.101:3306/raovat2011?characterEncoding=UTF-8</url>
+		<user>synuser</user>
+		<password>SynUser2011</password>
+		<connects>2</connects>
+	</database>
+	
+  <database-log>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://192.168.1.101:3306/crawler?characterEncoding=UTF-8</url>
+		<user>synuser</user>
+		<password>SynUser2011</password>
+		<connects>2</connects>
+		<table-entity>crawler_muaban_log</table-entity>
+		<table-image>crawler_muaban_image_log</table-image>
+	</database-log>
+	
+	<class table="classified">
+		<id column="cla_id"></id>
+		<xpath></xpath>
+		
+		<image column="cla_picture" name="thumn" node_type="string">
+			<xpath>html/body[1]/div[@id='EB-Wrapper']/center[1]/div[5]/div[2]/div[@id='image_info']/div[@id='gallery']/div[1]/div[1]//@style</xpath>
+			<regex>http://enbac10.vcmedia.vn/thumb_max</regex>
+		</image>
+		<!-- 
+		<image  name="content" column="" >
+			<xpath>html/body[1]/div[@id='EB-Wrapper']/center[1]/div[5]/div[@id='productDetail']</xpath>
+			<regex>http://enbac10.vcmedia.vn/thumb_w/180</regex>
+		</image>
+		 -->
+		<property column="cla_name" type="String" value="" node_type="string" filter="0">
+			<xpath>html/body[1]/form[@id='aspnetForm']/div[@id='ctl00_DivC']/div[2]/div[2]/div[2]/table[@id='ctl00_pC_DV_tableHeader']/TBODY[1]/tr[2]/td[3]/h1[1]</xpath>
+		</property>
+		<property column="cla_description" type="String" value="" node_type="nodeset" filter="0" changelink="1">
+			<xpath>html/body[1]/form[@id='aspnetForm']/div[@id='ctl00_DivC']/div[2]/div[2]/div[2]/div[1]</xpath>
+		</property>
+		<property column="city" type="String" value="" node_type="string" filter="0">
+			<xpath>html/body[1]/form[@id='aspnetForm']/div[@id='ctl00_DivC']/div[2]/div[2]/div[2]/table[@id='ctl00_pC_DV_tableHeader']/TBODY[1]/tr[4]/td[3]</xpath>
+		</property>
+		
+	</class>
+</bean-mapping>

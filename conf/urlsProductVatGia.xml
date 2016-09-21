@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<info>
+	<urls>	
+	<!--
+		<url catid="362" fetchNumber="82" pagePara=",">
+			http://www.vatgia.com/345,month/amplifier.html
+		</url>
+	
+		<url catid="366" fetchNumber="73" pagePara=",">
+			http://www.vatgia.com/346/dan-am-thanh.html
+		</url>		-->	
+		<url catid="363" fetchNumber="7" pagePara=",">
+			http://www.vatgia.com/6056,month/amplifier-hi-end.html
+		</url>	
+		<url catid="364" fetchNumber="2" pagePara=",">
+			http://www.vatgia.com/5889,month/bo-giai-ma-dac.html
+		</url>	
+		<url catid="365" fetchNumber="22" pagePara=",">
+			http://www.vatgia.com/5108,month/bo-tron-am-mixer.html
+		</url>	
+	</urls>
+	<website>
+		<baseUrl>http://www.vatgia.com</baseUrl>
+		<rewriterUrl>http://www.vatgia.com</rewriterUrl>
+	</website>
+	<regexs>
+		<regex>http://www.vatgia.com/\d+/\d+/.*.html$</regex>
+	</regexs>
+</info>

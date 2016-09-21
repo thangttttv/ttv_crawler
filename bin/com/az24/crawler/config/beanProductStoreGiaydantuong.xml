@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bean-mapping>
+	<database>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://210.211.97.11:3306/az24_store?characterEncoding=UTF-8</url>
+		<user>product</user>
+		<password>product!@#$%^</password>
+		<connects>2</connects>
+	</database>
+	
+  <database-log>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://210.211.97.11:3306/crawler?characterEncoding=UTF-8</url>
+		<user>quangpn</user>
+		<password>QuangPN2011@!!!*^</password>
+		<connects>2</connects>
+		<table-entity>tb_importer</table-entity>
+		<table-image>tb_image</table-image>
+	</database-log>
+
+	<class table="product">
+		<id column="id"></id>
+		<xpath></xpath>
+		<image column="picture" name="picture" node_type="string">
+			<xpath>
+				html/body[1]/table[1]/TBODY[1]/tr[2]/td[2]/table[1]/TBODY[1]/tr[1]/td[2]/table[1]/TBODY[1]/tr[3]/td[1]/table[1]/TBODY[1]/tr[1]/td[1]/table[1]/TBODY[1]/tr[1]/td[1]/table[1]/TBODY[1]/tr[1]/td[1]/img[1]/@src
+			</xpath>
+			<regex></regex>
+		</image>
+		<property column="name" type="String" value=""	node_type="string" filter="0">
+			<xpath>
+				html/body[1]/table[1]/TBODY[1]/tr[2]/td[2]/table[1]/TBODY[1]/tr[1]/td[2]/table[1]/TBODY[1]/tr[3]/td[1]/table[1]/TBODY[1]/tr[1]/td[1]/table[1]/TBODY[1]/tr[1]/td[1]/table[1]/TBODY[1]/tr[1]/td[2]/table[1]/TBODY[1]/tr[1]/td[2]/text()
+			</xpath>
+		</property>		
+		<property column="price" type="String" value=""	node_type="string" filter="0">
+			<xpath>
+				html/body[1]/table[1]/TBODY[1]/tr[2]/td[2]/table[1]/TBODY[1]/tr[1]/td[2]/table[1]/TBODY[1]/tr[3]/td[1]/table[1]/TBODY[1]/tr[1]/td[1]/table[1]/TBODY[1]/tr[1]/td[1]/table[1]/TBODY[1]/tr[1]/td[2]/table[1]/TBODY[1]/tr[3]/td[2]/text()
+			</xpath>
+		</property>
+		<property column="description" type="String" value="" node_type="nodeset" filter="0">
+			<xpath>
+				html/body[1]/table[1]/TBODY[1]/tr[2]/td[2]/table[1]/TBODY[1]/tr[1]/td[2]/table[1]/TBODY[1]/tr[3]/td[1]/table[1]/TBODY[1]/tr[1]/td[1]/table[1]/TBODY[1]/tr[1]/td[1]/table[1]/TBODY[1]/tr[1]/td[2]/table[1]/TBODY[1]/tr[4]/td[2]
+			</xpath>
+		</property>
+
+	</class>
+</bean-mapping>

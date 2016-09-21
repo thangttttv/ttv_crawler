@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<info>
+	<urls>
+	    <url catid="985" fetchNumber="1" pagePara="">
+	    	http://muaban.net/ho-chi-minh/raovat/13/giao-vien-gia-su/1.html
+	    </url>
+	    <url catid="985" fetchNumber="1" pagePara="">
+	    	http://muaban.net/ho-chi-minh/raovat/13/giao-vien-gia-su/2.html
+	    </url>
+	    <url catid="998" fetchNumber="1" pagePara="">
+	    	http://muaban.net/ho-chi-minh/raovat/5/thu-ky-ke-toan/1.html
+	    </url>
+	    <url catid="998" fetchNumber="1" pagePara="">
+	    	http://muaban.net/ho-chi-minh/raovat/5/thu-ky-ke-toan/2.html
+	    </url>
+	     <url catid="993" fetchNumber="1" pagePara="">
+	    	http://muaban.net/ho-chi-minh/raovat/182/nguoi-giup-viec-tap-vu/1.html
+	    </url> 
+	     <url catid="993" fetchNumber="1" pagePara="">
+	    	http://muaban.net/ho-chi-minh/raovat/182/nguoi-giup-viec-tap-vu/2.html
+	    </url> 
+	    <url catid="2099" fetchNumber="1" pagePara="">
+	    	http://muaban.net/ho-chi-minh/raovat/15/nv-an-ninh-bao-ve/1.html
+	    </url> 
+	    <url catid="2099" fetchNumber="1" pagePara="">
+	    	http://muaban.net/ho-chi-minh/raovat/15/nv-an-ninh-bao-ve/2.html
+	    </url> 
+	    <url catid="983" fetchNumber="1" pagePara="">
+	    	http://muaban.net/ho-chi-minh/raovat/14/nv-ban-hang/1.html
+	    </url> 
+	     <url catid="983" fetchNumber="1" pagePara="">
+	    	http://muaban.net/ho-chi-minh/raovat/14/nv-ban-hang/2.html
+	    </url> 
+	    <url catid="2115" fetchNumber="1" pagePara="">
+	    	http://muaban.net/ho-chi-minh/raovat/9/nv-ky-thuat-dien-dien-tu/1.html
+	    </url> 
+	    <url catid="2115" fetchNumber="1" pagePara="">
+	    	http://muaban.net/ho-chi-minh/raovat/9/nv-ky-thuat-dien-dien-tu/2.html
+	    </url> 
+	    <url catid="2142" fetchNumber="1" pagePara="">
+	    	http://muaban.net/ho-chi-minh/raovat/12/nv-tu-van/1.html
+	    </url> 
+	     <url catid="2142" fetchNumber="1" pagePara="">
+	    	http://muaban.net/ho-chi-minh/raovat/12/nv-tu-van/2.html
+	    </url> 
+	    <url catid="980" fetchNumber="1" pagePara="">
+	    	http://muaban.net/ho-chi-minh/raovat/7/bac-si-nv-y-duoc/1.html
+	    </url> 
+	     <url catid="980" fetchNumber="1" pagePara="">
+	    	http://muaban.net/ho-chi-minh/raovat/7/bac-si-nv-y-duoc/2.html
+	    </url> 
+	</urls>
+	<website>
+		<baseUrl>http://muaban.net</baseUrl>
+		<rewriterUrl>http://muaban.net</rewriterUrl>
+	</website>
+	<regexs>
+	    <regex>/raovat/chi-tiet</regex>
+	</regexs>
+</info>

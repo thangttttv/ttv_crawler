@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jdbm>
+	<url>/data/crawler/data/qacuaso/url</url>
+	<url-store>/data/crawler/data/qacuaso/store</url-store>
+	<datum>/data/crawler/data/qacuaso/datum</datum>
+	<datum-store>/data/crawler/data/qacuaso/store</datum-store>
+	<extract>/data/crawler/data/qacuaso/extract</extract>
+	<extract-store>/data/crawler/data/qacuaso/store</extract-store>
+	<url-image>/data/crawler/data/qacuaso/image</url-image>
+	<keyword-filter>/data/crawler/data/qacuaso</keyword-filter>
+	<user-qa>/data/crawler/data/qacuaso</user-qa>
+	<file-log>/data/crawler/data/qacuaso/qacuaso</file-log>
+</jdbm>

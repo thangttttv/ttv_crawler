@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <info>
+    <urls>
+      <url catid="30" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/du-lich/trang-5.chn
+      </url>
+      <url catid="30" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/du-lich/trang-4.chn
+      </url>
+      <url catid="30" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/du-lich/trang-3.chn
+      </url>
+      <url catid="30" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/du-lich/trang-2.chn
+      </url>
+      <url catid="30" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/du-lich/trang-1.chn
+      </url>
+      <url catid="36" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/dep/lam-dep/trang-5.chn
+      </url>
+      <url catid="36" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/dep/lam-dep/trang-4.chn
+      </url>
+      <url catid="36" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/dep/lam-dep/trang-3.chn
+      </url>
+      <url catid="36" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/dep/lam-dep/trang-2.chn
+      </url>
+      <url catid="36" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/dep/lam-dep/trang-1.chn
+      </url>
+      <url catid="44" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/thu-gian/chuyen-la/trang-5.chn
+      </url>
+      <url catid="44" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/thu-gian/chuyen-la/trang-4.chn
+      </url>
+      <url catid="44" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/thu-gian/chuyen-la/trang-3.chn
+      </url>
+      <url catid="44" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/thu-gian/chuyen-la/trang-2.chn
+      </url>
+      <url catid="44" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/thu-gian/chuyen-la/trang-1.chn
+      </url>
+      <url catid="45" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/thu-gian/tro-choi/trang-5.chn
+      </url>
+      <url catid="45" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/thu-gian/tro-choi/trang-4.chn
+      </url>
+      <url catid="45" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/thu-gian/tro-choi/trang-3.chn
+      </url>
+      <url catid="45" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/thu-gian/tro-choi/trang-2.chn
+      </url>
+      <url catid="45" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/thu-gian/tro-choi/trang-1.chn
+      </url>
+      <url catid="45" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/thu-gian/clip-vui/trang-5.chn
+      </url>
+      <url catid="45" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/thu-gian/clip-vui/trang-4.chn
+      </url>
+      <url catid="45" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/thu-gian/clip-vui/trang-3.chn
+      </url>
+      <url catid="45" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/thu-gian/clip-vui/trang-2.chn
+      </url>
+      <url catid="45" fetchNumber="1" collection="3" pagePara="" >
+            http://afamily.vn/thu-gian/clip-vui/trang-1.chn
+      </url>
+    </urls>
+  
+    <website>
+          <baseUrl>http://afamily.vn</baseUrl>  
+        <rewriterUrl>http://afamily.vn</rewriterUrl>        
+ </website>
+    <regexs>
+           <regex>afamily.vn/.*/\d+\.*</regex>      
+    	  </regexs>
+ </info> 

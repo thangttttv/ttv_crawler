@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bean-mapping>
+	<database>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://localhost:3306/baloteen?characterEncoding=UTF-8</url>
+		<user>root</user>
+		<password></password>
+		<connects>2</connects>
+	</database>
+	
+	<database-log>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://192.168.1.102:3306/crawler?characterEncoding=UTF-8</url>
+		<user>product</user>
+		<password>product!@#$%^</password>
+		<connects>2</connects>
+		<table-entity>crawler_danchi_log</table-entity>
+		<table-image>crawler_danchi_image_log</table-image>
+	</database-log>
+	
+	<class table="tbl_article">
+		<id column="id"></id>
+		<xpath></xpath>
+		<image column="picture_content" name="thumn" node_type="nodeset">
+			<xpath>//div[@id='ctl00_IDContent_ctl00_divContent']/div[4]</xpath>
+			<regex></regex>
+		</image>
+		<property column="title" type="String" value="" node_type="string" filter="0">
+			<xpath>//div[@id='ctl00_IDContent_ctl00_divContent']/div[2]/text()</xpath>
+		</property>
+		<property column="introtext" type="String" value="" node_type="String" filter="0">
+			<xpath>//div[@id='ctl00_IDContent_ctl00_divContent']/div[3]/text()</xpath>
+		</property>
+		<property column="create_date" type="String" value="" node_type="nodeset" filter="0">			
+			<xpath>//div[@id='ctl00_IDContent_ctl00_divContent']/div[1]/span[1]/text()</xpath>
+		</property>
+		<property column="content" type="String" value="" node_type="nodeset" filter="0" changelink="1">
+			<xpath>//div[@id='ctl00_IDContent_ctl00_divContent']/div[4]</xpath>
+			<nodedelxpaths>
+				<nodedel xpath="//input[@id='hidNextUsing']"></nodedel>
+			</nodedelxpaths>
+		</property>
+		
+	</class>
+</bean-mapping>

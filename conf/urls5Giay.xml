@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+  <info>
+    <urls>
+      <url catid="958" fetchNumber="5" pagePara="amporder=descamppage=">
+            http://www.5giay.vn/forumdisplay.php?f=44
+      </url>
+      <url catid="2491" fetchNumber="5" pagePara="amporder=descamppage=">
+            http://www.5giay.vn/forumdisplay.php?f=33
+      </url>
+      <url catid="2515" fetchNumber="5" pagePara="amporder=descamppage=">
+            http://www.5giay.vn/forumdisplay.php?f=87
+      </url>
+      <url catid="3248" fetchNumber="5" pagePara="amporder=descamppage=">
+            http://www.5giay.vn/forumdisplay.php?f=97
+      </url>
+      <url catid="3211" fetchNumber="5" pagePara="amporder=descamppage=">
+            http://www.5giay.vn/forumdisplay.php?f=109
+      </url>
+      <url catid="2539" fetchNumber="5" pagePara="amporder=descamppage=">
+            http://www.5giay.vn/forumdisplay.php?f=138
+      </url>
+      <url catid="2922" fetchNumber="5" pagePara="amporder=descamppage=">
+            http://www.5giay.vn/forumdisplay.php?f=119
+      </url>
+      <url catid="2004" fetchNumber="5" pagePara="amporder=descamppage=">
+            http://www.5giay.vn/forumdisplay.php?f=22
+      </url>
+      <url catid="2267" fetchNumber="5" pagePara="amporder=descamppage=">
+            http://www.5giay.vn/forumdisplay.php?f=145
+      </url>
+      <url catid="2449" fetchNumber="5" pagePara="amporder=descamppage=">
+            http://www.5giay.vn/forumdisplay.php?f=140
+      </url>
+      <url catid="1101" fetchNumber="5" pagePara="amporder=descamppage=">
+            http://www.5giay.vn/forumdisplay.php?f=73
+      </url>
+      <url catid="2001" fetchNumber="5" pagePara="amporder=descamppage=">
+            http://www.5giay.vn/forumdisplay.php?f=14
+      </url>
+      <url catid="2002" fetchNumber="5" pagePara="amporder=descamppage=">
+            http://www.5giay.vn/forumdisplay.php?f=27
+      </url>
+      <url catid="2361" fetchNumber="5" pagePara="amporder=descamppage=">
+            http://www.5giay.vn/forumdisplay.php?f=24
+      </url>
+      <url catid="3262" fetchNumber="5" pagePara="amporder=descamppage=">
+            http://www.5giay.vn/forumdisplay.php?f=41
+      </url>
+      <url catid="1933" fetchNumber="5" pagePara="amporder=descamppage=">
+            http://www.5giay.vn/forumdisplay.php?f=43
+      </url>
+      <url catid="2764" fetchNumber="5" pagePara="amporder=descamppage=">
+            http://www.5giay.vn/forumdisplay.php?f=135
+      </url>
+      <url catid="1919" fetchNumber="5" pagePara="amporder=descamppage=">
+            http://www.5giay.vn/forumdisplay.php?f=139
+      </url>
+      <url catid="1062" fetchNumber="5" pagePara="amporder=descamppage=">
+            http://www.5giay.vn/forumdisplay.php?f=89
+      </url>    
+    </urls>
+  
+    <website>
+        <baseUrl>http://www.5giay.vn</baseUrl>  
+        <rewriterUrl>http://www.5giay.vn</rewriterUrl>        
+ </website>
+    <regexs>
+          <regex>www.5giay.vn/showthread.php\?t=\d*$</regex>      
+    </regexs>
+ </info> 

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jdbm>
+	<url>/data/crawler/data/vatgia/url</url>
+	<url-store>/data/crawler/data/vatgia/store</url-store>
+	<datum>/data/crawler/data/vatgia/datum</datum>
+	<datum-store>/data/crawler/data/vatgia/store</datum-store>
+	<extract>/data/crawler/data/vatgia/extract</extract>
+	<extract-store>/data/crawler/data/vatgia/store</extract-store>
+	<url-image>/data/crawler/data/vatgia/image</url-image>
+	<keyword-filter>/data/crawler/data/vatgia</keyword-filter>
+	<user-qa>/data/crawler/data/vatgia</user-qa>
+	<file-log>/data/crawler/data/vatgia/vatgia</file-log>
+</jdbm>

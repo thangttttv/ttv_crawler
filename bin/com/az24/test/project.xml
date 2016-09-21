@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<projects>
+	    
+		<project id = "BP001">
+	        <name>Banking Project</name>
+	        <start-date>Jan 10 1999</start-date>
+	        <end-date>Jan 10 2003</end-date>
+	    </project>
+		<project id = "TP001">        
+	        <name>Telecommunication Project</name>
+	        <start-date>March 20 1999</start-date>
+	        <end-date>July 30 2004</end-date>
+	    </project>
+	    <project id = "PP001">
+	        <name>Portal Project</name>
+	        <start-date>Dec 10 1998</start-date>
+	        <end-date>March 10 2006</end-date>
+	    </project>
+    
+	</projects>

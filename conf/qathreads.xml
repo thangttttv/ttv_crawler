@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<threads>
+	<thread>
+		<time>10 20 * * *</time>
+		<bean_config>./conf/beanQATinhTe.xml</bean_config>
+		<jdbm_config>./conf/jdbmQATinhTe.xml</jdbm_config>
+		<url_config>./conf/urlsTinhTe.xml</url_config>
+		<importer_config>2</importer_config>
+		<step>0</step>
+		<stepTo>4</stepTo>
+		<fetch>1</fetch>
+		<is_slow>0</is_slow>
+	</thread>
+	<thread>
+		<time>10 21 * * *</time>
+		<bean_config>./conf/beanQAYahoo.xml</bean_config>
+		<jdbm_config>./conf/jdbmQAYahoo.xml</jdbm_config>
+		<url_config>./conf/urlsQAYahoo.xml</url_config>
+		<importer_config>2</importer_config>
+		<step>0</step>
+		<stepTo>4</stepTo>
+		<fetch>1</fetch>
+		<is_slow>0</is_slow>
+	</thread>
+	<thread>
+		<time>10 22 * * *</time>
+		<bean_config>./conf/beanQAYeuLaptop.xml</bean_config>
+		<jdbm_config>./conf/jdbmQAYeuLaptop.xml</jdbm_config>
+		<url_config>./conf/urlsQAYeuLaptop.xml</url_config>
+		<importer_config>2</importer_config>
+		<step>0</step>
+		<stepTo>4</stepTo>
+		<fetch>1</fetch>
+		<is_slow>0</is_slow>
+	</thread>
+	<thread>
+		<time>10 23 * * *</time>
+		<bean_config>./conf/beanQAQTM.xml</bean_config>
+		<jdbm_config>./conf/jdbmQAQTM.xml</jdbm_config>
+		<url_config>./conf/urlsQuanTriMang.xml</url_config>
+		<importer_config>2</importer_config>
+		<step>0</step>
+		<stepTo>4</stepTo>
+		<fetch>1</fetch>
+		<is_slow>0</is_slow>
+	</thread>	
+</threads>

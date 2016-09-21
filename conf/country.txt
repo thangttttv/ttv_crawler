@@ -1,0 +1,374 @@
+Afghanistan_Afghanistan
+Châu Phi_Africa
+Albania_Albania
+Algeria_Algeria
+Andorra_Andorra
+Argentina_Argentina
+Armenia_Armenia
+Châu Á_Asia
+Úc_Australia
+Áo_Austria
+Azerbaijan_Azerbaijan
+Bahrain_Bahrain
+Bangladesh_Bangladesh
+Belarus_Belarus
+Bỉ_Belgium
+Belize_Belize
+Benin_Benin
+Bhutan_Bhutan
+Bolivia_Bolivia
+Bosnia and Herzegovina_Bosnia and Herzegovina
+Botswana_Botswana
+Brazil_Brazil
+Brunei_Brunei Darussalam
+Bulgary_Bulgaria
+Burkina Faso_Burkina Faso
+Burundi_Burundi
+Campuchia_Cambodia
+Cameroon_Cameroon
+Canada_Canada
+Cape Verde_Cape Verde
+Central African_Central African
+Trung Mỹ_Central America
+Chad_Chad
+Chi Lê_Chile
+Trung Quốc_China
+Colombia_Colombia
+Concacaf_Concacaf
+Cộng hòa Congo_Congo
+Costa Rica_Costa Rica
+Bờ Biển Ngà_Cote d'ivoire
+Croatia_Croatia
+Cuba_Cuba
+Síp_Cyprus
+Séc_Czech
+Đan Mạch_Denmark
+Djibouti_Djibouti
+Đông Á_East Asia
+Ecuador_Ecuador
+Ai Cập_Egypt
+EI Salvador_EI Salvador
+El Salvador_El Salvador
+Anh_England
+Equatorial Guinea_Equatorial Guinea
+Estonia_Estonia
+Châu Âu_Europe
+Faroe Islands_Faroe Islands
+FiFa_FiFa
+Phần Lan_Finland
+Pháp_France
+Friendly_Friendly
+Gabon_Gabon
+Gambia_Gambia
+Georgia_Georgia
+Đức_Germany
+Ghana_Ghana
+Gibraltar_Gibraltar
+Hy Lạp_Greece
+Guam_Guam
+Guatemala_Guatemala
+Guinea_Guinea
+Guinea-Bissau_Guinea-Bissau
+Haiti_Haiti
+Honduras_Honduras
+Hồng Kông_Hong Kong
+Hungary_Hungary
+Iceland_Iceland
+Ấn độ_India
+Indonesia_Indonesia
+Iran_Iran
+Iraq_Iraq
+Ireland_Ireland
+Israel_Israel
+Ý_Italy
+Jamaica_Jamaica
+Nhật Bản_Japan
+Jordan_Jordan
+Kazakhstan_Kazakhstan
+Kenya_Kenya
+Kuwait_Kuwait
+Lào_Laos
+Latvia_Latvia
+Li băng_Lebanon
+Lesotho_Lesotho
+Liberia_Liberia
+Libya_Libya
+Liechtenstein_Liechtenstein
+Lithuania_Lithuania
+Luxembourg_Luxembourg
+Macedonia_Macedonia
+Madagascar_Madagascar
+Malawi_Malawi
+Malaysia_Malaysia
+Maldives_Maldives
+Mali_Mali
+Malta_Malta
+Mauritania_Mauritania
+Mauritius_Mauritius
+Mexico_Mexico
+Moldova_Moldova
+Mongolia_Mongolia
+Montenegro_Montenegro
+Ma rốc_Morocco
+Mozambique_Mozambique
+Myanmar_Myanmar
+Namibia_Namibia
+Nepal_Nepal
+Hà Lan_Netherlands
+New Zealand_New Zealand
+Nicaragua_Nicaragua
+Niger_Niger
+Nigeria_Nigeria
+Bắc Mỹ_North America
+Bắc Triều Tiên_North Korea
+Bắc Ireland_Northern Ireland
+Na Uy_Norway
+Oman_Oman
+Palestine_Palestine
+Panama_Panama
+Paraguay_Paraguay
+Peru_Peru
+Philippines_Philippines
+Ba Lan_Poland
+Bồ Đào Nha_Portugal
+Qatar_Qatar
+Hàn Quốc_Republic of Korea
+Romania_Romania
+Rumany_Rumany
+Nga_Russia
+Rwanda_Rwanda
+San Marino_San Marino
+Sao Tome and Principe_Sao Tome and Principe
+Saudi Arabia_Saudi Arabia
+Arập Xêút_Saudi Arabic
+Scotland_Scotland
+Senegal_Senegal
+Serbia_Serbia
+Seychelles_Seychelles
+Sierra Leone_Sierra Leone
+Singapore_Singapore
+Slovakia_Slovakia
+Slovenia_Slovenia
+Nam Phi_South Africa
+Nam Mỹ_South America
+South Sudan_South Sudan
+Đông Nam Á_Southeast Asia
+Tây Ban Nha_Spain
+Sudan_Sudan
+Swaziland_Swaziland
+Thụy Điển_Sweden
+Thụy Sỹ_Switzerland
+Syria_Syria
+Tajikistan_Tajikistan
+Tanzania_Tanzania
+Thái Lan_Thailand
+Cộng hòa Dân chủ Congo_The Democratic Republic of Congo
+Ethiopia_The Federal Democratic Republic of Ethiopia
+Đông Timor_Timor-Leste
+Togo_Togo
+Trinidad and Tobago_Trinidad and Tobago
+Tunisia_Tunisia
+Thổ Nhĩ Kỳ_Turkey
+Turkmenistan_Turkmenistan
+Uganda_Uganda
+Ukraina_Ukraine
+Union of Comoros_Union of Comoros
+UAE_United Arab Emirates
+Hoa Kỳ_United States of America
+Uruguay_Uruguay
+Mỹ_USA
+Uzbekistan_Uzbekistan
+Venezuela_Venezuela
+Việt Nam_Viet Nam
+Wales_Wales
+World_World
+Yemen_Yemen
+Zambia_Zambia
+Zimbabwe_Zimbabwe
+Afghanistan_Afghanistan
+Châu Phi_Africa
+Albania_Albania
+Algeria_Algeria
+Andorra_Andorra
+Argentina_Argentina
+Armenia_Armenia
+Châu Á_Asia
+Úc_Australia
+Áo_Austria
+Azerbaijan_Azerbaijan
+Bahrain_Bahrain
+Bangladesh_Bangladesh
+Belarus_Belarus
+Bỉ_Belgium
+Belize_Belize
+Benin_Benin
+Bhutan_Bhutan
+Bolivia_Bolivia
+Bosnia and Herzegovina_Bosnia and Herzegovina
+Botswana_Botswana
+Brazil_Brazil
+Brunei_Brunei Darussalam
+Bulgary_Bulgaria
+Burkina Faso_Burkina Faso
+Burundi_Burundi
+Campuchia_Cambodia
+Cameroon_Cameroon
+Canada_Canada
+Cape Verde_Cape Verde
+Central African_Central African
+Trung Mỹ_Central America
+Chad_Chad
+Chi Lê_Chile
+Trung Quốc_China
+Colombia_Colombia
+Concacaf_Concacaf
+Cộng hòa Congo_Congo
+Costa Rica_Costa Rica
+Bờ Biển Ngà_Cote d'ivoire
+Croatia_Croatia
+Cuba_Cuba
+Síp_Cyprus
+Séc_Czech
+Đan Mạch_Denmark
+Djibouti_Djibouti
+Đông Á_East Asia
+Ecuador_Ecuador
+Ai Cập_Egypt
+EI Salvador_EI Salvador
+El Salvador_El Salvador
+Anh_England
+Equatorial Guinea_Equatorial Guinea
+Estonia_Estonia
+Châu Âu_Europe
+Faroe Islands_Faroe Islands
+FiFa_FiFa
+Phần Lan_Finland
+Pháp_France
+Friendly_Friendly
+Gabon_Gabon
+Gambia_Gambia
+Georgia_Georgia
+Đức_Germany
+Ghana_Ghana
+Gibraltar_Gibraltar
+Hy Lạp_Greece
+Guam_Guam
+Guatemala_Guatemala
+Guinea_Guinea
+Guinea-Bissau_Guinea-Bissau
+Haiti_Haiti
+Honduras_Honduras
+Hồng Kông_Hong Kong
+Hungary_Hungary
+Iceland_Iceland
+Ấn độ_India
+Indonesia_Indonesia
+Iran_Iran
+Iraq_Iraq
+Ireland_Ireland
+Israel_Israel
+Ý_Italy
+Jamaica_Jamaica
+Nhật Bản_Japan
+Jordan_Jordan
+Kazakhstan_Kazakhstan
+Kenya_Kenya
+Kuwait_Kuwait
+Lào_Laos
+Latvia_Latvia
+Li băng_Lebanon
+Lesotho_Lesotho
+Liberia_Liberia
+Libya_Libya
+Liechtenstein_Liechtenstein
+Lithuania_Lithuania
+Luxembourg_Luxembourg
+Macedonia_Macedonia
+Madagascar_Madagascar
+Malawi_Malawi
+Malaysia_Malaysia
+Maldives_Maldives
+Mali_Mali
+Malta_Malta
+Mauritania_Mauritania
+Mauritius_Mauritius
+Mexico_Mexico
+Moldova_Moldova
+Mongolia_Mongolia
+Montenegro_Montenegro
+Ma rốc_Morocco
+Mozambique_Mozambique
+Myanmar_Myanmar
+Namibia_Namibia
+Nepal_Nepal
+Hà Lan_Netherlands
+New Zealand_New Zealand
+Nicaragua_Nicaragua
+Niger_Niger
+Nigeria_Nigeria
+Bắc Mỹ_North America
+Bắc Triều Tiên_North Korea
+Bắc Ireland_Northern Ireland
+Na Uy_Norway
+Oman_Oman
+Palestine_Palestine
+Panama_Panama
+Paraguay_Paraguay
+Peru_Peru
+Philippines_Philippines
+Ba Lan_Poland
+Bồ Đào Nha_Portugal
+Qatar_Qatar
+Hàn Quốc_Republic of Korea
+Romania_Romania
+Rumany_Rumany
+Nga_Russia
+Rwanda_Rwanda
+San Marino_San Marino
+Sao Tome and Principe_Sao Tome and Principe
+Saudi Arabia_Saudi Arabia
+Arập Xêút_Saudi Arabic
+Scotland_Scotland
+Senegal_Senegal
+Serbia_Serbia
+Seychelles_Seychelles
+Sierra Leone_Sierra Leone
+Singapore_Singapore
+Slovakia_Slovakia
+Slovenia_Slovenia
+Nam Phi_South Africa
+Nam Mỹ_South America
+South Sudan_South Sudan
+Đông Nam Á_Southeast Asia
+Tây Ban Nha_Spain
+Sudan_Sudan
+Swaziland_Swaziland
+Thụy Điển_Sweden
+Thụy Sỹ_Switzerland
+Syria_Syria
+Tajikistan_Tajikistan
+Tanzania_Tanzania
+Thái Lan_Thailand
+Cộng hòa Dân chủ Congo_The Democratic Republic of Congo
+Ethiopia_The Federal Democratic Republic of Ethiopia
+Đông Timor_Timor-Leste
+Togo_Togo
+Trinidad and Tobago_Trinidad and Tobago
+Tunisia_Tunisia
+Thổ Nhĩ Kỳ_Turkey
+Turkmenistan_Turkmenistan
+Uganda_Uganda
+Ukraina_Ukraine
+Union of Comoros_Union of Comoros
+UAE_United Arab Emirates
+Hoa Kỳ_United States of America
+Uruguay_Uruguay
+Mỹ_USA
+Uzbekistan_Uzbekistan
+Venezuela_Venezuela
+Việt Nam_Viet Nam
+Wales_Wales
+World_World
+Yemen_Yemen
+Zambia_Zambia
+Zimbabwe_Zimbabwe

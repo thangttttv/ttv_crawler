@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bean-mapping>
+<database>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://192.168.1.103:3306/hdc_Tinhhinh?characterEncoding=UTF-8</url>
+		<user>quangpn</user>
+		<password>21quang11</password>
+		<connects>2</connects>
+	</database>
+	
+	<database-log>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://192.168.1.101:3306/crawler?characterEncoding=UTF-8</url>
+		<user>product</user>
+		<password>product!@#$%^</password>
+		<connects>2</connects>
+		<table-entity>crawler_tinhhinh_log</table-entity>
+		<table-image>crawler_vnexpress_image_log</table-image>
+	</database-log>
+	
+	<class table="tbl_article">
+		<id column="id"></id>
+		<xpath></xpath>
+		<image column="picture_content" name="thumn" node_type="nodeset">
+			<xpath>//div[@class='CT_contentDetail']</xpath>
+			<regex></regex>
+		</image>
+		<property column="title" type="String" value="" node_type="string" filter="0">
+			<xpath>//h1[@class='Title']/text()</xpath>
+		</property>
+		<property column="introtext" type="String" value="" node_type="String" filter="0">
+			<xpath>//h2[@class='Lead']/text()</xpath>
+		</property>		
+		<property column="create_date" type="String" value="" node_type="string" filter="0">
+			<xpath>//p[@class='LargeTime2']/text()</xpath>
+		</property>
+		<property column="tags" type="String" value="" node_type="nodeset" filter="0">
+			<xpath>//div[@class='newTag2']/a</xpath>
+			<xpath-sub>/text()</xpath-sub>
+		</property>
+		<property column="content" type="String" value="" node_type="nodeset" filter="0" changelink="1">
+			<xpath>//div[@class='CT_contentDetail']</xpath>
+			<nodedelxpaths>
+				<nodedel xpath="//div[@class='CT_contentDetail']/div[@class='pl_social']"></nodedel>	
+				<nodedel xpath="//div[@class='newTag']"></nodedel>
+				<nodedel xpath="//div[@class='ads_clm']"></nodedel>
+				<nodedel xpath="//div[@class='newOther']"></nodedel>
+				<nodedel xpath="//div[@class='CT_contentDetail']/p[@class='inviteLogin']"></nodedel>
+				<nodedel xpath="//div[@class='CT_contentDetail']/div[@id='divParentShowComment']"></nodedel>
+				<nodedel xpath="//div[@class='CT_contentDetail']/h2[@class='Lead']/a"></nodedel>
+				<nodedel xpath="//div[@class='CT_contentDetail']/h1[@class='Title']"></nodedel>
+			</nodedelxpaths>
+				<nodedels>
+				<nodedel name="div" attribute="pl_social"></nodedel>
+				<nodedel name="div" attribute="newTag"></nodedel>
+				<nodedel name="div" attribute="ads_clm"></nodedel>
+				<nodedel name="div" attribute="newOther"></nodedel>
+				<nodedel name="p" attribute="inviteLogin"></nodedel>
+				<nodedel name="div" attribute="divParentShowComment"></nodedel>
+				<nodedel name="h2" attribute="Lead"></nodedel>
+				<nodedel name="h1" attribute="Title"></nodedel>
+				<nodedel name="a" attribute="Lead"></nodedel>
+			</nodedels>
+		</property>		
+	</class>
+</bean-mapping>

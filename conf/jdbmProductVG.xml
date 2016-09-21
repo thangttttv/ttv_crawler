@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jdbm>
+	<url>/data/crawler/data/product_amthanh/url</url>
+	<url-store>/data/crawler/data/product_amthanh/store</url-store>
+	<datum>/data/crawler/data/product_amthanh/datum</datum>
+	<datum-store>/data/crawler/data/product_amthanh/store</datum-store>
+	<extract>/data/crawler/data/product_amthanh/extract</extract>
+	<extract-store>/data/crawler/data/product_amthanh/store</extract-store>
+	<url-image>/data/crawler/data/product_amthanh/image</url-image>
+	<keyword-filter>/data/crawler/data/product_amthanh/</keyword-filter>
+	<user-qa>/data/crawler/data/product_amthanh/</user-qa>
+	<file-log>/data/crawler/data/product_amthanh/</file-log>
+</jdbm>

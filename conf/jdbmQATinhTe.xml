@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jdbm>
+	<url>/data/crawler/data/tinhte/url</url>
+	<url-store>/data/crawler/data/tinhte/store</url-store>
+	<datum>/data/crawler/data/tinhte/datum</datum>
+	<datum-store>/data/crawler/data/tinhte/store</datum-store>
+	<extract>/data/crawler/data/tinhte/extract</extract>
+	<extract-store>/data/crawler/data/tinhte/store</extract-store>
+	<url-image>/data/crawler/data/tinhte/image</url-image>
+	<keyword-filter>/data/crawler/data/tinhte</keyword-filter>
+	<user-qa>/data/crawler/data/tinhte</user-qa>
+	<file-log>/data/crawler/data/tinhte/tinhte</file-log>
+</jdbm>

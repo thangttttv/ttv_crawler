@@ -1,0 +1,457 @@
+<?xml version="1.0" ?>
+  <info>
+    <urls>
+      <url catid="2424" regex="/p\d+/.*html$">
+            http://enbac.com/c251/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2424" regex="/p\d+/.*html$">
+            http://enbac.com/c251/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2427" regex="/p\d+/.*html$">
+            http://enbac.com/c117/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2427" regex="/p\d+/.*html$">
+            http://enbac.com/c117/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2434" regex="/p\d+/.*html$">
+            http://enbac.com/c111/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2434" regex="/p\d+/.*html$">
+            http://enbac.com/c111/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2436" regex="/p\d+/.*html$">
+            http://enbac.com/c130/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2436" regex="/p\d+/.*html$">
+            http://enbac.com/c130/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2437" regex="/p\d+/.*html$">
+            http://enbac.com/c123/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2437" regex="/p\d+/.*html$">
+            http://enbac.com/c123/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3298" regex="/p\d+/.*html$">
+            http://enbac.com/c33/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3298" regex="/p\d+/.*html$">
+            http://enbac.com/c33/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2476" regex="/p\d+/.*html$">
+            http://enbac.com/c34/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2476" regex="/p\d+/.*html$">
+            http://enbac.com/c34/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2477" regex="/p\d+/.*html$">
+            http://enbac.com/c597/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2477" regex="/p\d+/.*html$">
+            http://enbac.com/c597/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2481" regex="/p\d+/.*html$">
+            http://enbac.com/c37/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2481" regex="/p\d+/.*html$">
+            http://enbac.com/c37/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2478" regex="/p\d+/.*html$">
+            http://enbac.com/c35/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2478" regex="/p\d+/.*html$">
+            http://enbac.com/c35/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2482" regex="/p\d+/.*html$">
+            http://enbac.com/c36/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2482" regex="/p\d+/.*html$">
+            http://enbac.com/c36/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2484" regex="/p\d+/.*html$">
+            http://enbac.com/c38/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2484" regex="/p\d+/.*html$">
+            http://enbac.com/c38/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2485" regex="/p\d+/.*html$">
+            http://enbac.com/c39/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2485" regex="/p\d+/.*html$">
+            http://enbac.com/c39/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2490" regex="/p\d+/.*html$">
+            http://enbac.com/c41/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2490" regex="/p\d+/.*html$">
+            http://enbac.com/c41/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2491" regex="/p\d+/.*html$">
+            http://enbac.com/c64/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2491" regex="/p\d+/.*html$">
+            http://enbac.com/c64/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2492" regex="/p\d+/.*html$">
+            http://enbac.com/c306/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2492" regex="/p\d+/.*html$">
+            http://enbac.com/c306/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2493" regex="/p\d+/.*html$">
+            http://enbac.com/c47/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2493" regex="/p\d+/.*html$">
+            http://enbac.com/c47/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2495" regex="/p\d+/.*html$">
+            http://enbac.com/c2/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2495" regex="/p\d+/.*html$">
+            http://enbac.com/c2/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2497" regex="/p\d+/.*html$">
+            http://enbac.com/c6/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2497" regex="/p\d+/.*html$">
+            http://enbac.com/c6/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2498" regex="/p\d+/.*html$">
+            http://enbac.com/c7/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2498" regex="/p\d+/.*html$">
+            http://enbac.com/c7/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2502" regex="/p\d+/.*html$">
+            http://enbac.com/c5/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2502" regex="/p\d+/.*html$">
+            http://enbac.com/c5/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2506" regex="/p\d+/.*html$">
+            http://enbac.com/c3/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2506" regex="/p\d+/.*html$">
+            http://enbac.com/c3/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2508" regex="/p\d+/.*html$">
+            http://enbac.com/c4/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2508" regex="/p\d+/.*html$">
+            http://enbac.com/c4/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2510" regex="/p\d+/.*html$">
+            http://enbac.com/c13/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2510" regex="/p\d+/.*html$">
+            http://enbac.com/c13/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2511" regex="/p\d+/.*html$">
+            http://enbac.com/c15/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2511" regex="/p\d+/.*html$">
+            http://enbac.com/c15/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2514" regex="/p\d+/.*html$">
+            http://enbac.com/c14/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2514" regex="/p\d+/.*html$">
+            http://enbac.com/c14/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2515" regex="/p\d+/.*html$">
+            http://enbac.com/c305/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2515" regex="/p\d+/.*html$">
+            http://enbac.com/c305/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2518" regex="/p\d+/.*html$">
+            http://enbac.com/c438/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2518" regex="/p\d+/.*html$">
+            http://enbac.com/c438/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2519" regex="/p\d+/.*html$">
+            http://enbac.com/c65/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2519" regex="/p\d+/.*html$">
+            http://enbac.com/c65/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2520" regex="/p\d+/.*html$">
+            http://enbac.com/c439/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2520" regex="/p\d+/.*html$">
+            http://enbac.com/c439/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2521" regex="/p\d+/.*html$">
+            http://enbac.com/c68/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2521" regex="/p\d+/.*html$">
+            http://enbac.com/c68/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2523" regex="/p\d+/.*html$">
+            http://enbac.com/c69/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2523" regex="/p\d+/.*html$">
+            http://enbac.com/c69/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2526" regex="/p\d+/.*html$">
+            http://enbac.com/c598/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2526" regex="/p\d+/.*html$">
+            http://enbac.com/c598/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2527" regex="/p\d+/.*html$">
+            http://enbac.com/c73/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2527" regex="/p\d+/.*html$">
+            http://enbac.com/c73/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2528" regex="/p\d+/.*html$">
+            http://enbac.com/c599/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2528" regex="/p\d+/.*html$">
+            http://enbac.com/c599/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2529" regex="/p\d+/.*html$">
+            http://enbac.com/c75/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2529" regex="/p\d+/.*html$">
+            http://enbac.com/c75/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2536" regex="/p\d+/.*html$">
+            http://enbac.com/c285/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2536" regex="/p\d+/.*html$">
+            http://enbac.com/c285/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2539" regex="/p\d+/.*html$">
+            http://enbac.com/c308/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2539" regex="/p\d+/.*html$">
+            http://enbac.com/c308/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2583" regex="/p\d+/.*html$">
+            http://enbac.com/c445/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2583" regex="/p\d+/.*html$">
+            http://enbac.com/c445/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="1105" regex="/p\d+/.*html$">
+            http://enbac.com/c217/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="1105" regex="/p\d+/.*html$">
+            http://enbac.com/c217/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3208" regex="/p\d+/.*html$">
+            http://enbac.com/c215/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3208" regex="/p\d+/.*html$">
+            http://enbac.com/c215/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3209" regex="/p\d+/.*html$">
+            http://enbac.com/c214/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3209" regex="/p\d+/.*html$">
+            http://enbac.com/c214/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3210" regex="/p\d+/.*html$">
+            http://enbac.com/c216/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3210" regex="/p\d+/.*html$">
+            http://enbac.com/c216/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3212" regex="/p\d+/.*html$">
+            http://enbac.com/c220/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3212" regex="/p\d+/.*html$">
+            http://enbac.com/c220/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3213" regex="/p\d+/.*html$">
+            http://enbac.com/c430/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3213" regex="/p\d+/.*html$">
+            http://enbac.com/c430/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3214" regex="/p\d+/.*html$">
+            http://enbac.com/c222/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3214" regex="/p\d+/.*html$">
+            http://enbac.com/c222/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3242" regex="/p\d+/.*html$">
+            http://enbac.com/c52/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3242" regex="/p\d+/.*html$">
+            http://enbac.com/c52/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3243" regex="/p\d+/.*html$">
+            http://enbac.com/c53/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3243" regex="/p\d+/.*html$">
+            http://enbac.com/c53/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3244" regex="/p\d+/.*html$">
+            http://enbac.com/c54/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3244" regex="/p\d+/.*html$">
+            http://enbac.com/c54/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3245" regex="/p\d+/.*html$">
+            http://enbac.com/c55/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3245" regex="/p\d+/.*html$">
+            http://enbac.com/c55/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3236" regex="/p\d+/.*html$">
+            http://enbac.com/c56/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3236" regex="/p\d+/.*html$">
+            http://enbac.com/c56/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3247" regex="/p\d+/.*html$">
+            http://enbac.com/c57/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3247" regex="/p\d+/.*html$">
+            http://enbac.com/c57/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3248" regex="/p\d+/.*html$">
+            http://enbac.com/c58/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3248" regex="/p\d+/.*html$">
+            http://enbac.com/c58/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3249" regex="/p\d+/.*html$">
+            http://enbac.com/c587/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3249" regex="/p\d+/.*html$">
+            http://enbac.com/c587/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2877" regex="/p\d+/.*html$">
+            http://enbac.com/c405/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2877" regex="/p\d+/.*html$">
+            http://enbac.com/c405/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2882" regex="/p\d+/.*html$">
+            http://enbac.com/c468/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2882" regex="/p\d+/.*html$">
+            http://enbac.com/c468/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2926" regex="/p\d+/.*html$">
+            http://enbac.com/c354/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2926" regex="/p\d+/.*html$">
+            http://enbac.com/c354/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2935" regex="/p\d+/.*html$">
+            http://enbac.com/c247/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2935" regex="/p\d+/.*html$">
+            http://enbac.com/c247/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2974" regex="/p\d+/.*html$">
+            http://enbac.com/c246/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2974" regex="/p\d+/.*html$">
+            http://enbac.com/c246/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2976" regex="/p\d+/.*html$">
+            http://enbac.com/c396/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2976" regex="/p\d+/.*html$">
+            http://enbac.com/c396/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2978" regex="/p\d+/.*html$">
+            http://enbac.com/c475/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2978" regex="/p\d+/.*html$">
+            http://enbac.com/c475/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2979" regex="/p\d+/.*html$">
+            http://enbac.com/c464/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2979" regex="/p\d+/.*html$">
+            http://enbac.com/c464/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2295" regex="/p\d+/.*html$">
+            http://enbac.com/ c254/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2295" regex="/p\d+/.*html$">
+            http://enbac.com/ c254/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="2998" regex="/p\d+/.*html$">
+            http://enbac.com/c144/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="2998" regex="/p\d+/.*html$">
+            http://enbac.com/c144/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3009" regex="/p\d+/.*html$">
+            http://enbac.com/c399/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3009" regex="/p\d+/.*html$">
+            http://enbac.com/c399/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3014" regex="/p\d+/.*html$">
+            http://enbac.com/c452/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3014" regex="/p\d+/.*html$">
+            http://enbac.com/c452/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3015" regex="/p\d+/.*html$">
+            http://enbac.com/c250/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3015" regex="/p\d+/.*html$">
+            http://enbac.com/c250/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3040" regex="/p\d+/.*html$">
+            http://enbac.com/c357/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3040" regex="/p\d+/.*html$">
+            http://enbac.com/c357/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3076" regex="/p\d+/.*html$">
+            http://enbac.com/c457/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3076" regex="/p\d+/.*html$">
+            http://enbac.com/c457/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3084" regex="/p\d+/.*html$">
+            http://enbac.com/c456/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3084" regex="/p\d+/.*html$">
+            http://enbac.com/c456/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3087" regex="/p\d+/.*html$">
+            http://enbac.com/c244/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3087" regex="/p\d+/.*html$">
+            http://enbac.com/c244/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3094" regex="/p\d+/.*html$">
+            http://enbac.com/c395/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3094" regex="/p\d+/.*html$">
+            http://enbac.com/c395/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3095" regex="/p\d+/.*html$">
+            http://enbac.com/c454/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3095" regex="/p\d+/.*html$">
+            http://enbac.com/c454/Thoi-Trang-Do-Dung/page-2
+      </url>
+      <url catid="3097" regex="/p\d+/.*html$">
+            http://enbac.com/c248/Thoi-Trang-Do-Dung/page-1
+      </url>
+      <url catid="3097" regex="/p\d+/.*html$">
+            http://enbac.com/c248/Thoi-Trang-Do-Dung/page-2
+      </url>
+    </urls>
+  
+    <website>
+          <baseUrl></baseUrl>  
+        <rewriterUrl></rewriterUrl>        
+ </website>
+    <regexs>
+           <regex></regex>      
+    	  </regexs>
+ </info> 

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+  <info>
+    <urls>
+      <url catid="25" fetchNumber="1" pagePara="" collection="2">
+            http://kenh14.vn/thoi-trang/star-style.chn
+      </url>
+      <url catid="13" fetchNumber="1" pagePara="" collection="2">
+      	http://kenh14.vn/ngoi-sao/v-star.chn      	
+      </url>
+      <url catid="13" fetchNumber="1" pagePara="" collection="2">
+      	http://kenh14.vn/ngoi-sao/v-star.chn      	
+      </url>
+    </urls>
+    <website>
+        <baseUrl>http://kenh14.vn</baseUrl>  
+        <rewriterUrl>http://kenh14.vn</rewriterUrl>        
+ </website>
+    <regexs>
+           <regex>/c\d+/\d+/.*chn$</regex>      
+    </regexs>
+ </info> 

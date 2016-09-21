@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bean-mapping>
+	<database>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://210.211.97.11:3306/az24_store?characterEncoding=UTF-8</url>
+		<user>product</user>
+		<password>product!@#$%^</password>
+		<connects>2</connects>
+	</database>
+	
+  <database-log>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://210.211.97.11:3306/crawler?characterEncoding=UTF-8</url>
+		<user>quangpn</user>
+		<password>QuangPN2011@!!!*^</password>
+		<connects>2</connects>
+		<table-entity>tb_importer</table-entity>
+		<table-image>tb_image</table-image>
+	</database-log>
+
+	<class table="product">
+		<id column="id"></id>
+		<xpath></xpath>
+
+
+		<image column="picture" name="picture" node_type="string">
+			<xpath>
+				HTML/BODY[@id='topcategoriesdisplay']/DIV[@id='container']/DIV[@id='pagebody']/DIV[@id='content']/DIV[@id='home_lifestyle']/TABLE[1]/TBODY[1]/TR[1]/TD[1]/TABLE[1]/FORM[@name='cart_quantity']/TBODY[1]/TR[1]/TD[1]/TABLE[1]/TBODY[1]/TR[3]/TD[1]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/DIV[1]/IMG[1]/@src
+			</xpath>
+			<regex></regex>
+		</image>
+		
+	
+		
+		
+		<image column="picture" name="picture" node_type="nodeset">
+			<xpath>
+				HTML/BODY[@id='topcategoriesdisplay']/DIV[@id='container']/DIV[@id='pagebody']/DIV[@id='content']/DIV[@id='home_lifestyle']/TABLE[1]/TBODY[1]/TR[1]/TD[1]/TABLE[1]/FORM[@name='cart_quantity']/TBODY[1]/TR[1]/TD[1]/TABLE[1]/TBODY[1]/TR[3]/TD[1]/TABLE[1]/TBODY[1]/TR[2]/TD[1]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/TABLE[1]/TBODY[1]/TR[1]/TD
+			</xpath>
+			<xpath-sub>/A[1]/@href</xpath-sub>
+			<regex></regex>
+		</image>
+		
+		<property column="name" type="String" value=""	node_type="string" filter="0">
+			<xpath>
+				HTML/BODY[@id='topcategoriesdisplay']/DIV[@id='container']/DIV[@id='pagebody']/DIV[@id='content']/DIV[@id='home_lifestyle']/TABLE[1]/TBODY[1]/TR[1]/TD[1]/TABLE[1]/FORM[@name='cart_quantity']/TBODY[1]/TR[1]/TD[1]/TABLE[1]/TBODY[1]/TR[3]/TD[2]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/B[1]/text()
+			</xpath>
+		</property>
+		
+		<property column="price" type="node" value=""
+			node_type="node" filter="0">
+			<xpath>
+				HTML/BODY[@id='topcategoriesdisplay']/DIV[@id='container']/DIV[@id='pagebody']/DIV[@id='content']/DIV[@id='home_lifestyle']/TABLE[1]/TBODY[1]/TR[1]/TD[1]/TABLE[1]/FORM[@name='cart_quantity']/TBODY[1]/TR[1]/TD[1]/TABLE[1]/TBODY[1]/TR[3]/TD[2]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/B[3]
+			</xpath>
+		</property>	
+		
+		<property column="description" type="String" value="" node_type="nodeset" filter="0">
+			<xpath>
+				HTML/BODY[@id='topcategoriesdisplay']/DIV[@id='container']/DIV[@id='pagebody']/DIV[@id='content']/DIV[@id='home_lifestyle']/TABLE[1]/TBODY[1]/TR[1]/TD[1]/TABLE[1]/FORM[@name='cart_quantity']/TBODY[1]/TR[1]/TD[1]/TABLE[1]/TBODY[1]/TR[3]/TD[2]/DIV[@id='tabs']/DIV[@id='fragment-1']
+			</xpath>		
+		</property>
+
+	
+	</class>
+</bean-mapping>

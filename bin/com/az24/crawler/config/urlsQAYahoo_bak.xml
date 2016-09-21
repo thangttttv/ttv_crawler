@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<info>
+	<urls>	    
+	   <url catid="423" fetchNumber="10" pagePara="amplink=resolvedampcp=">
+	    	http://vn.answers.yahoo.com/dir/index;_ylt=AvpGONlC8DaytdIzqGrqTqmYd3RG;_ylv=3?sid=396545372
+	    </url>	  
+	    
+	  <!-- Dien tu --><!-- 
+	  <url catid="267" fetchNumber="10" pagePara="amplink=resolvedampcp=">
+	    	http://vn.answers.yahoo.com/dir/index;_ylt=Av1gZVXogazlWF_lBYIhhNfEdXRG;_ylv=3?sid=396545666
+	  </url> 
+	  <url catid="258" fetchNumber="10" pagePara="amplink=resolvedampcp=">
+	    	http://vn.answers.yahoo.com/dir/index;_ylt=Av1gZVXogazlWF_lBYIhhNe6dXRG;_ylv=3?sid=396545631
+	  </url>     
+	 
+	  <url catid="150" fetchNumber="10" pagePara="amplink=resolvedampcp=">
+	  	http://vn.answers.yahoo.com/dir/index;_ylt=Av1gZVXogazlWF_lBYIhhNemdXRG;_ylv=3?sid=396545671
+	  </url>	  	  
+	  <url catid="151" fetchNumber="10" pagePara="amplink=resolvedampcp=">
+	  	http://vn.answers.yahoo.com/dir/index;_ylt=AnMo5SFNELEaiOKduCQPPtuqdXRG;_ylv=3?sid=396545670
+	  </url>
+	  <url catid="227" fetchNumber="10" pagePara="amplink=resolvedampcp=">
+	  	http://vn.answers.yahoo.com/dir/index;_ylt=Av1gZVXogazlWF_lBYIhhNeldXRG;_ylv=3?sid=396545672
+	  </url>
+	  <url catid="229" fetchNumber="10" pagePara="amplink=resolvedampcp=">
+	  	http://vn.answers.yahoo.com/dir/index;_ylt=AoOGWQMXviuNjNZ3FcVr1.mldXRG;_ylv=3?sid=396545673
+	  </url>
+	  <url catid="238" fetchNumber="10" pagePara="amplink=resolvedampcp=">
+	  	http://vn.answers.yahoo.com/dir/index;_ylt=AnMo5SFNELEaiOKduCQPPtuodXRG;_ylv=3?sid=396545675
+	  </url>
+	   -->
+	</urls>
+	<website>
+		<baseUrl>http://vn.answers.yahoo.com</baseUrl>
+		<rewriterUrl>http://vn.answers.yahoo.com</rewriterUrl>
+	</website>
+	<regexs>
+	    <regex>_ylv=\d\?qid=.*</regex>
+	</regexs>
+</info>

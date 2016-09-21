@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bean-mapping>
+	<database>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://192.168.1.103:3306/hdc_Baloteen?characterEncoding=UTF-8</url>
+		<user>thangtt</user>
+		<password>thangtt@)!!</password>
+		<connects>2</connects>
+	</database>
+	
+	<database-log>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://192.168.1.101:3306/crawler?characterEncoding=UTF-8</url>
+		<user>synuser</user>
+		<password>SynUser2011</password>
+		<connects>2</connects>
+		<table-entity>crawler_kenh14_log</table-entity>
+		<table-image>crawler_kenh14_image_log</table-image>
+	</database-log>
+	
+	<class table="tbl_article">
+		<id column="id"></id>
+		<xpath></xpath>
+		
+		<image column="picture" name="thumn" node_type="string">
+			<xpath>html/body[1]/div[@id='EB-Wrapper']/center[1]/div[5]/div[2]/div[@id='image_info']/div[@id='gallery']/div[1]/div[1]//@style</xpath>
+			<regex></regex>
+		</image>
+		
+		<image column="picture_content" name="thumn" node_type="nodeset">
+			<xpath>html/body[1]/form[@id='aspnetForm']/div[5]/div[1]/div[2]/div[1]/div[1]/div[5]</xpath>
+			<regex></regex>
+		</image>
+	
+		<property column="title" type="String" value="" node_type="string" filter="0">
+			<xpath>html/body[1]/form[@id='aspnetForm']/div[5]/div[1]/div[2]/div[1]/div[1]/h1[1]/text()</xpath>
+		</property>
+		<property column="introtext" type="String" value="" node_type="String" filter="0">
+			<xpath>html/body[1]/form[@id='aspnetForm']/div[5]/div[1]/div[2]/div[1]/div[1]/p[1]/text()</xpath>
+		</property>
+		<property column="content" type="String" value="" node_type="nodeset" filter="0" changelink="1">
+			<xpath>html/body[1]/form[@id='aspnetForm']/div[5]/div[1]/div[2]/div[1]/div[1]/div[5];html/body[1]/form[@id='aspnetForm']/div[5]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]</xpath>
+		</property>
+		<property column="author" type="String" value="" node_type="string" filter="0">
+			<xpath>html/body[1]/form[@id='aspnetForm']/div[5]/div[1]/div[2]/div[1]/div[1]/div[3]/a[1]/text()</xpath>
+		</property>
+		<property column="tags" type="String" value="" node_type="nodeset" filter="0">
+			<xpath>html/body[1]/form[@id='aspnetForm']/div[5]/div[1]/div[2]/div[1]/div[5]/div[2]/a</xpath>
+			<xpath-sub>/text()</xpath-sub>
+		</property>
+	</class>
+</bean-mapping>

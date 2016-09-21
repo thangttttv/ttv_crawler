@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bean-mapping>
+	<database>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://localhost:3306/baloteen?characterEncoding=UTF-8</url>
+		<user>root</user>
+		<password></password>
+		<connects>2</connects>
+	</database>
+	
+	<database-log>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://192.168.1.102:3306/crawler?characterEncoding=UTF-8</url>
+		<user>product</user>
+		<password>product!@#$%^</password>
+		<connects>2</connects>
+		<table-entity>crawler_ione_log</table-entity>
+		<table-image>crawler_ione_image_log</table-image>
+	</database-log>
+	
+	<class table="tbl_article">
+		<id column="id"></id>
+		<xpath></xpath>
+		<image column="picture_content" name="thumn" node_type="nodeset">
+			<xpath>//div[@class='dtContent']</xpath>
+			<regex></regex>
+		</image>
+		<property column="title" type="String" value="" node_type="nodeset" filter="0">			
+			<xpath>//h1[@class='Title']</xpath>
+		</property>
+		<property column="introtext" type="String" value="" node_type="String" filter="0">
+			<xpath>html/body[1]/div[@id='container']/div[2]/div[1]/div[1]/div[2]/h2[1]/text()</xpath>
+		</property>		
+		<property column="author" type="String" value="" node_type="string" filter="0">
+			<xpath>html/body[1]/form[@id='aspnetForm']/div[5]/div[1]/div[2]/div[1]/div[1]/div[3]/a[1]/text()</xpath>
+		</property>
+		<property column="tags" type="String" value="" node_type="nodeset" filter="0">
+			<xpath>//div[@class='tagArticle']/a</xpath>
+			<xpath-sub>/text()</xpath-sub>
+		</property>
+		<property column="create_date" type="String" value="" node_type="nodeset" filter="0">			
+			<xpath>//span[@class='timePost']/span[1]</xpath>
+		</property>
+		<property column="content" type="String" value="" node_type="nodeset" filter="0" changelink="1">
+			<xpath>//div[@class='dtContent']</xpath>
+			<nodedels>
+				<nodedel name="h1" attribute="Title"></nodedel>
+				<nodedel name="h5" attribute="timePost"></nodedel>
+				<nodedel name="h2" attribute="Lead"></nodedel>
+				<nodedel name="p" attribute="RelatedLeadSubject"></nodedel>
+				<nodedel name="div" attribute="tag_content"></nodedel>
+				<nodedel name="div" attribute="article_banner"></nodedel>
+				<nodedel name="div" attribute="fb-root"></nodedel>
+				<nodedel name="ul" attribute="ulBackPack"></nodedel>
+			</nodedels>
+		</property>
+		
+	</class>
+</bean-mapping>

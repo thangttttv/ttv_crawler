@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+	<urls>
+		<url catid="46" fetchNumber="1" collection="1" pagePara="">
+			http://hoahoctro.vn/horoquiz.hht
+		</url>
+	</urls>
+	<website>
+		<baseUrl>http://hoahoctro.vn</baseUrl>
+		<rewriterUrl>http://hoahoctro.vn</rewriterUrl>
+	</website>
+	<regexs>
+		<regex>.*\d+.hht$</regex>
+	</regexs>
+</info>

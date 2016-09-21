@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jdbm>
+	<url>/data/crawler/data/24h/url</url>
+	<url-store>/data/crawler/data/24h/store</url-store>
+	<datum>/data/crawler/data/24h/datum</datum>
+	<datum-store>/data/crawler/data/24h/store</datum-store>
+	<extract>/data/crawler/data/24h/extract</extract>
+	<extract-store>/data/crawler/data/24h/store</extract-store>
+	<url-image>/data/crawler/data/24h/image</url-image>
+	<keyword-filter>/data/crawler/data/24h</keyword-filter>
+	<user-qa>/data/crawler/data/24h</user-qa>
+	<file-log>/data/crawler/data/24h/24h</file-log>
+</jdbm>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<threads>
+	<thread>
+		<time>44 0,1,11 * * *</time>
+		<bean_config>src/com/az24/crawler/config/beanKenh14.xml</bean_config>
+		<jdbm_config>src/com/az24/crawler/config/jdbm.xml</jdbm_config>
+		<url_config>src/com/az24/crawler/config/urlsKenh14.xml</url_config>
+		<importer_config>1</importer_config>
+		<stepTo>3</stepTo>
+		<step>1</step>
+		<fetch>1</fetch>
+		<is_slow>1</is_slow>
+	</thread>
+</threads>

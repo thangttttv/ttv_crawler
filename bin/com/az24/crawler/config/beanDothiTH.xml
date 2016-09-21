@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bean-mapping>
+	<database>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://localhost:3306/baloteen?characterEncoding=UTF-8</url>
+		<user>root</user>
+		<password></password>
+		<connects>2</connects>
+	</database>
+	
+	<database-log>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://192.168.1.102:3306/crawler?characterEncoding=UTF-8</url>
+		<user>product</user>
+		<password>product!@#$%^</password>
+		<connects>2</connects>
+		<table-entity>crawler_ione_log</table-entity>
+		<table-image>crawler_ione_image_log</table-image>
+	</database-log>
+	
+	<class table="tbl_article">
+		<id column="id"></id>
+		<xpath></xpath>
+		<image column="picture_content" name="thumn" node_type="nodeset">
+			<xpath>//DIV[@id='ctl06_Middle_Left_Zone_ctl00_articleView_pnlArticle']/DIV[1]/DIV[3]</xpath>
+			<regex></regex>
+		</image>
+		<property column="title" type="String" value="" node_type="nodeset" filter="0">			
+			<xpath>//DIV[@id='ctl06_Middle_Left_Zone_ctl00_articleView_pnlArticle']/DIV[1]/DIV[1]/H1[1]/text()</xpath>
+		</property>
+		<property column="tags" type="String" value="" node_type="nodeset" filter="0">
+			<xpath>//DIV[@class='tagsSearch']/A</xpath>
+			<xpath-sub>/text()</xpath-sub>
+		</property>
+		<property column="create_date" type="String" value="" node_type="nodeset" filter="0">			
+			<xpath>//DIV[@id='ctl06_Middle_Left_Zone_ctl00_articleView_pnlArticle']/DIV[1]/DIV[2]/SPAN[1]/text()</xpath>
+		</property>
+		<property column="content" type="String" value="" node_type="nodeset" filter="0" changelink="1">
+			<xpath>//DIV[@id='ctl06_Middle_Left_Zone_ctl00_articleView_pnlArticle']/DIV[1]/DIV[3]</xpath>
+			<nodedelxpaths>
+				<nodedel xpath="//DIV[@id='ctl06_Middle_Left_Zone_ctl00_articleView_pnlArticle']/DIV[1]/DIV[2]/SPAN[1]/CENTER[1]/TABLE[1]"></nodedel>	
+			</nodedelxpaths>
+		</property>
+	</class>
+</bean-mapping>

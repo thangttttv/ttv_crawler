@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bean-mapping>
+	<database>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://192.168.1.101:3306/raovat2011?characterEncoding=UTF-8</url>
+		<user>synuser</user>
+		<password>SynUser2011</password>
+		<connects>2</connects>
+	</database>
+	
+	<database-log>
+		<driver>com.mysql.jdbc.Driver</driver>
+		<url>jdbc:mysql://192.168.1.101:3306/crawler?characterEncoding=UTF-8</url>
+		<user>synuser</user>
+		<password>SynUser2011</password>
+		<connects>2</connects>
+		<table-entity>crawler_enbac_log</table-entity>
+		<table-image>crawler_enbac_image_log</table-image>
+	</database-log>
+	
+	<class table="classified">
+		<id column="cla_id"></id>
+		<xpath></xpath>
+		
+		<image column="cla_picture" name="thumn" node_type="string">
+			<xpath>html/body[1]/div[@id='EB-Wrapper']/center[1]/div[5]/div[2]/div[@id='image_info']/div[@id='gallery']/div[1]/div[1]//@style</xpath>
+			<regex>http://enbac10.vcmedia.vn/thumb_max</regex>
+		</image>
+		<!-- 
+		<image  name="content" column="" >
+			<xpath>html/body[1]/div[@id='EB-Wrapper']/center[1]/div[5]/div[@id='productDetail']</xpath>
+			<regex>http://enbac10.vcmedia.vn/thumb_w/180</regex>
+		</image>
+		 -->
+		<property column="cla_name" type="String" value="" node_type="string" filter="0">
+			<xpath>html/body[1]/div[@id='EB-Wrapper']/center[1]/div[5]/div[@id='productDetail']/div[3]/div[1]/div[1]/div[2]/h1[1]/div[@id='item_name']//@title</xpath>
+		</property>
+		<property column="cla_description" type="String" value="" node_type="nodeset" filter="0" changelink="1">
+			<xpath>html/body[1]/div[@id='EB-Wrapper']/center[1]/div[5]/div[@id='productDetail']/div[3]/div[1]/div[1]/div[@id='description']</xpath>
+		</property>
+		<property column="cla_contact" type="String" value="" node_type="string" filter="0">
+			<xpath>html/body[1]/div[@id='EB-Wrapper']/center[1]/div[5]/div[@id='productDetail']/div[@id='user_info']/div[1]/div[2]/div[2]/div[3]/h1[1]/font[2]/text()</xpath>
+		</property>
+		<!-- 
+		<one-to-many table="qa_answer">
+			<xpath>HTML/BODY[1]/DIV[@id='yan']/DIV[@id='yan-wrap']/DIV[@id='yan-content']/DIV[@id='yan-answers']/DIV[2]/UL[1]/LI</xpath>
+			<id column="id" ></id>
+			<pkey column="id_question" type="int"></pkey>
+			<property column="answer" type="String">
+				<xpath>/DIV/DIV[2]/DIV[1]</xpath>
+			</property>			
+		</one-to-many>		 -->
+	</class>
+</bean-mapping>

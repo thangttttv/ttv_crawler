@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jdbm>
+	<url>d:/data/url</url>
+	<url-store>d:/data/store</url-store>
+	<datum>d:/data/datum</datum>
+	<datum-store>d:/data/store</datum-store>
+	<extract>d:/data/extract</extract>
+	<extract-store>d:/data/store</extract-store>
+	<url-image>d:/data/image</url-image>
+	<keyword-filter>d:/data</keyword-filter>
+	<user-qa>d:/data</user-qa>
+	<file-log>d:/data/proVatGia</file-log>
+</jdbm>

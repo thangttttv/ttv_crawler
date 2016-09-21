@@ -1,0 +1,9 @@
+Mon Jul 18 09:13:41 ICT 2011-->Tong Data:2818
+Mon Jul 18 09:13:41 ICT 2011-->Tong Imported:2818
+Mon Jul 18 09:13:41 ICT 2011-->Tong Data Loi:0
+
+Mon Jul 18 09:27:42 ICT 2011-->Tong Extract:2122
+Mon Jul 18 09:30:05 ICT 2011-->Tong Data:2121
+Mon Jul 18 09:30:05 ICT 2011-->Tong Imported:159
+Mon Jul 18 09:30:05 ICT 2011-->Tong Data Loi:1
+
