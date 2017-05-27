@@ -99,7 +99,9 @@ public class JsonParsing {
 	        
 	       jsonArray.add(formDetailsJson);
 	    }
-	    //System.out.println(jsonArray.toString());
+	    JSONObject formDetailsJson = new JSONObject();
+	    formDetailsJson.put("v", formDetailsJson.values());
+	    System.out.println(formDetailsJson.toString());
 	    return jsonArray.toString();
 	}
 }

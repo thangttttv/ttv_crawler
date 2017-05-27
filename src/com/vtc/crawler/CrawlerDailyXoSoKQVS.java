@@ -22,6 +22,7 @@ import com.az24.crawler.model.KQMN;
 import com.az24.dao.W10HDAO;
 import com.az24.test.HttpClientUtil;
 
+//http://ketquaveso.com/ttkq/json_kqmb.html?t=1487063592806
 
 public class CrawlerDailyXoSoKQVS extends CrawlerDailyXoSo{
 	

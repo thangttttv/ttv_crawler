@@ -212,5 +212,11 @@ public class RegexMatches3 {
 							    	 //}
 							      }
 							
+							       r1 = Pattern.compile("\\W");
+							       conntent ="8*" ;
+							       m1 = r1.matcher(conntent);
+							      String kq = m1.replaceAll(" ");
+							      System.out.println(kq);
+							      System.out.println(kq.length());
 	   }
 }

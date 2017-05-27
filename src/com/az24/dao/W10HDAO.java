@@ -932,6 +932,69 @@ public class W10HDAO {
 	}
 	
 	
+	public boolean saveXoSoMega(String ngay_qay,int so_1,int so_2, int so_3, int so_4, int so_5, int so_6) {
+		Connection conn = null;
+		PreparedStatement preStmt = null;
+		StringBuffer strSQL = null;
+		boolean result = false;
+		try {
+			conn = C3p010hPool.getConnection();		
+			conn.setAutoCommit(false);
+			strSQL = new StringBuffer(
+					"INSERT INTO ketqua_mega (ngay_quay, so_1, so_2, so_3, so_4, so_5, so_6, create_date) VALUES  (?,?,?,?,?,?,?,NOW())");
+
+			preStmt = conn.prepareStatement(strSQL.toString());
+			preStmt.setString(1,ngay_qay);
+			preStmt.setInt(2,so_1);
+			preStmt.setInt(3,so_2);
+			preStmt.setInt(4,so_3);
+			preStmt.setInt(5,so_4);
+			preStmt.setInt(6,so_5);
+			preStmt.setInt(7,so_6);
+
+			if (preStmt.executeUpdate() == 1) {
+				conn.commit();
+				result = true;
+			} else {
+				conn.rollback();
+			}
+			conn.setAutoCommit(true);
+		} catch (NoSuchElementException nse) {
+			nse.printStackTrace();
+		} catch (SQLException se) {
+			se.printStackTrace();
+		} catch (Exception e) {
+			e.printStackTrace();
+		} finally {			
+			C3p010hPool.attemptClose(preStmt);
+			C3p010hPool.attemptClose(conn);
+		}
+		return result;
+	}
+	
+	public int checkXoSoMega(String ngay_quay) {
+		PreparedStatement ps;
+		int kq =0;
+		try {
+			Connection connection = C3p010hPool.getConnection();
+			ps = connection.prepareStatement("SELECT * FROM ketqua_mega Where ngay_quay = ?");
+			ps.setString(1, ngay_quay);
+			
+			ResultSet rs =	ps.executeQuery();
+			if(rs.next())
+			{
+				kq =1;
+			}
+			C3p010hPool.attemptClose(rs);
+			C3p010hPool.attemptClose(ps);
+			C3p010hPool.attemptClose(connection);
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		return kq;
+	}
+	
+	
 	public int checkNotify(int object_id,String open_date) {
 		PreparedStatement ps;
 		int kq =0;
@@ -955,6 +1018,9 @@ public class W10HDAO {
 		}
 		return kq;
 	}
+	
+	
+	
 	
 	
 	public static void main(String[] args) {

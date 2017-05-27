@@ -52,6 +52,10 @@ public class DBConfig {
     public static String db_gamestore_user_service ="ustoregame";
     public static String db_gamestore_pass_service ="pstoregame&*(";
     
+    public static String db_vietlotto_url_service ="jdbc:mysql://localhost:3306/vtc_vietlott?autoReconnect=true&characterEncoding=UTF-8";
+    public static String db_vietlotto_user_service ="root";
+    public static String db_vietlotto_pass_service ="";
+    
     public static int db_connection = 3;
     public static String sms_send_queue = "SMS_SEND_QUEUE";
     public static String sms_send_log = "SMS_SEND_LOG";
@@ -65,6 +69,9 @@ public class DBConfig {
     public static String file_kqjson_mb_2 = "C://Projects//kq_mb.txt";
     public static String file_kqjson_mn_2 = "C://Projects//kq_mn.txt";
     public static String file_kqjson_mt_2 = "C://Projects//kq_mt.txt";
+    
+    public static String file_kqjson_645 = "C://Projects//kq_645.txt";
+    public static String file_kqjson_max4d = "C://Projects//kq_max4d.txt";
     
     public static String file_feed = "C://Projects//boxnote.php";
     public static String file_feed_mobile = "C://Projects//boxnote2.php";
@@ -139,6 +146,10 @@ public class DBConfig {
         db_gamestore_url_service  = properties.getProperty("db_gamestore_url_service", db_gamestore_url_service);
         db_gamestore_user_service = properties.getProperty("db_gamestore_user_service", db_gamestore_user_service);
         db_gamestore_pass_service = properties.getProperty("db_gamestore_pass_service", db_gamestore_pass_service);
+        
+        db_vietlotto_url_service  = properties.getProperty("db_vietlotto_url_service", db_vietlotto_url_service);
+        db_vietlotto_user_service = properties.getProperty("db_vietlotto_user_service", db_vietlotto_user_service);
+        db_vietlotto_pass_service = properties.getProperty("db_vietlotto_pass_service", db_vietlotto_pass_service);
    
         
         sms_send_queue = properties.getProperty("sms_send_queue", sms_send_queue);
@@ -161,6 +172,9 @@ public class DBConfig {
         file_kqjson_mb_2   = properties.getProperty("file_kqjson_mb_2", file_kqjson_mb_2);
         file_kqjson_mn_2   = properties.getProperty("file_kqjson_mn_2", file_kqjson_mn_2);
         file_kqjson_mt_2   = properties.getProperty("file_kqjson_mt_2", file_kqjson_mt_2);
+        
+        file_kqjson_645   = properties.getProperty("file_kqjson_645", file_kqjson_645);
+        file_kqjson_max4d   = properties.getProperty("file_kqjson_max4d", file_kqjson_max4d);
         
         file_feed   = properties.getProperty("file_feed", file_feed);
         file_feed_mobile   = properties.getProperty("file_feed_mobile", file_feed_mobile);

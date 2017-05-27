@@ -890,7 +890,7 @@ public class CrawlerDailyXoSoTrucTiep extends CrawlerDailyXoSo {
 	
 	public static void main(String[] args) throws ParseException {
 		CrawlerDailyXoSoTrucTiep.filePID = "./conf/pidTrucTiep.txt";
-		if(CrawlerDailyXoSoTrucTiep.existPID()) return; else CrawlerDailyXoSoTrucTiep.createPID();
+	//	if(CrawlerDailyXoSoTrucTiep.existPID()) return; else CrawlerDailyXoSoTrucTiep.createPID();
 		
 		try {
 			CrawlerDailyXoSoTrucTiep xoSoKQVS = new CrawlerDailyXoSoTrucTiep();
@@ -919,7 +919,7 @@ public class CrawlerDailyXoSoTrucTiep extends CrawlerDailyXoSo {
 			if(args!=null&&args.length>0)
 				runNowMT = Integer.parseInt(args[1]);
 			
-			int runNowMB = 0;
+			int runNowMB = 1;
 			if(args!=null&&args.length>0)
 				runNowMB = Integer.parseInt(args[2]);
 			

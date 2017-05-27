@@ -233,7 +233,6 @@ public class CrawlerDailyXoSoThanTaiKQVS extends CrawlerDailyXoSo{
 			}
 			createFileJSONMT(listKQ,ngay_quay_vn);
 			createFileTT_HTML_MT_ThanTai(listKQ);
-			//createFileTT_HTML_MT_XoSoPlus(listKQ);
 		}
 	}
 	
