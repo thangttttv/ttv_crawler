@@ -9,7 +9,7 @@ import javapns.communication.exceptions.*;
 import javax.net.ssl.*;
 
 import org.apache.log4j.*;
-import org.bouncycastle.jce.provider.*;
+//import org.bouncycastle.jce.provider.*;
 
 /**
  * <h1>Class representing an abstract connection to an Apple server</h1>
@@ -35,7 +35,7 @@ public abstract class ConnectionToAppleServer {
 	public static final String KEYSTORE_TYPE_JKS = "JKS";
 
 	static {
-		Security.addProvider(new BouncyCastleProvider());
+		//Security.addProvider(new BouncyCastleProvider());
 	}
 
 	private KeyStore keyStore;
